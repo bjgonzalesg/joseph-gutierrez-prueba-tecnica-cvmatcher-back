@@ -1,12 +1,12 @@
 import { Controller, Get } from '@nestjs/common';
 import { RolesService } from './roles.service';
-import { EApiMethods, ERoutes } from '@/common/enums';
+import { EApiMethods, EApiRoutes } from '@/common/enums';
 import { ApiTags } from '@nestjs/swagger';
 import { Auth } from '../auth/decorators';
 import { ERoles } from '../auth/enums';
 
-@Controller(ERoutes.ROLES)
-@ApiTags(ERoutes.ROLES)
+@Controller(EApiRoutes.ROLES)
+@ApiTags(EApiRoutes.ROLES)
 export class RolesController {
   constructor(private readonly rolesService: RolesService) {}
 

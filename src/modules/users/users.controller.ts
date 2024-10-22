@@ -1,4 +1,4 @@
-import { EApiMethods, ERoutes } from '@/common/enums';
+import { EApiMethods, EApiRoutes } from '@/common/enums';
 import {
   CreatePaginationDto,
   ResponsePaginationDto,
@@ -10,8 +10,8 @@ import { Auth } from '../auth/decorators';
 import { ERoles } from '../auth/enums';
 import { UsersService } from './users.service';
 
-@Controller(ERoutes.USERS)
-@ApiTags(ERoutes.USERS)
+@Controller(EApiRoutes.USERS)
+@ApiTags(EApiRoutes.USERS)
 export class UsersController {
   constructor(private readonly usersService: UsersService) {}
 

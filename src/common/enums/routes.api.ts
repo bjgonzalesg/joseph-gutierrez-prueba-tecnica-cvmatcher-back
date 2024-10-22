@@ -1,4 +1,4 @@
-export enum ERoutes {
+export enum EApiRoutes {
   USERS = 'users',
   AUTH = 'auth',
   PEOPLE = 'people',

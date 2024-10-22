@@ -1,4 +1,4 @@
-import { ERoutes } from '@/common/enums';
+import { EApiRoutes } from '@/common/enums';
 import { CreateUserDto, UserDB } from '@/modules/users/dto';
 import { Body, Controller, Patch, Post, UseGuards } from '@nestjs/common';
 import { AuthGuard } from '@nestjs/passport';
@@ -9,8 +9,8 @@ import { AuthResponseDto, ChangePasswordDto } from '../dto';
 import { LoginDto } from '../dto/login.dto';
 import { AuthService } from '../services/auth.service';
 
-@Controller(ERoutes.AUTH)
-@ApiTags(ERoutes.AUTH)
+@Controller(EApiRoutes.AUTH)
+@ApiTags(EApiRoutes.AUTH)
 export class AuthController {
   constructor(private readonly authService: AuthService) {}
 

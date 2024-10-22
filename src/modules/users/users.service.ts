@@ -1,4 +1,4 @@
-import { EApiMethods, ERoutes } from '@/common/enums';
+import { EApiMethods, EApiRoutes } from '@/common/enums';
 import {
   CreatePaginationDto,
   PaginationService,
@@ -39,7 +39,7 @@ export class UsersService {
       total: count,
       page: createPaginationDto.page,
       apiMethod: EApiMethods.FIND_ALL_PAGINATE,
-      apiRoute: ERoutes.USERS,
+      apiRoute: EApiRoutes.USERS,
       data: rows,
       limit,
     });
