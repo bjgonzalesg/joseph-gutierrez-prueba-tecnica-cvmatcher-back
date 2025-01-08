@@ -1,4 +1,4 @@
-# NESTJS BACKEND BASE + AUTH + SEQUELIZE + HUSKY + DOCKER
+# BACKEND BOLETASPAGO - UNT
 
 <p align="center">
   <a href="http://nestjs.com/" target="blank">
