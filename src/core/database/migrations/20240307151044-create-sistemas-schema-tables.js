@@ -3,10 +3,30 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface, Sequelize) {
-    //* Create "personas" table
+    const schema = 'sistemas';
+
+    const timestamp = {
+      createdAt: {
+        type: Sequelize.DataTypes.DATE,
+        defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
+        allowNull: false,
+      },
+
+      updatedAt: {
+        type: Sequelize.DataTypes.DATE,
+        defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
+        allowNull: false,
+      },
+
+      deletedAt: {
+        type: Sequelize.DataTypes.DATE,
+      },
+    };
+
+    //* Create "people" table
     await queryInterface.createTable(
       {
-        schema: 'sistemas',
+        schema,
         tableName: 'people',
       },
       {
@@ -26,25 +46,22 @@ module.exports = {
           allowNull: false,
         },
 
-        nacionality: {
-          type: Sequelize.DataTypes.STRING,
-          allowNull: false,
-        },
-
         document: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
           unique: true,
         },
 
+        nacionality: {
+          type: Sequelize.DataTypes.STRING,
+        },
+
         telephone: {
           type: Sequelize.DataTypes.STRING,
-          allowNull: false,
         },
 
         gender: {
           type: Sequelize.DataTypes.STRING,
-          allowNull: false,
         },
 
         date: {
@@ -55,28 +72,14 @@ module.exports = {
           type: Sequelize.DataTypes.STRING,
         },
 
-        createdAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        updatedAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        deletedAt: {
-          type: Sequelize.DataTypes.DATE,
-        },
+        ...timestamp,
       },
     );
 
     //* Create "roles" table
     await queryInterface.createTable(
       {
-        schema: 'sistemas',
+        schema,
         tableName: 'roles',
       },
       {
@@ -95,28 +98,14 @@ module.exports = {
           type: Sequelize.DataTypes.STRING,
         },
 
-        createdAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        updatedAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        deletedAt: {
-          type: Sequelize.DataTypes.DATE,
-        },
+        ...timestamp,
       },
     );
 
     //* Create "usuarios" table
     await queryInterface.createTable(
       {
-        schema: 'sistemas',
+        schema,
         tableName: 'users',
       },
       {
@@ -156,28 +145,14 @@ module.exports = {
           },
         },
 
-        createdAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        updatedAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        deletedAt: {
-          type: Sequelize.DataTypes.DATE,
-        },
+        ...timestamp,
       },
     );
 
     //* Create "paginas" table
     await queryInterface.createTable(
       {
-        schema: 'sistemas',
+        schema,
         tableName: 'pages',
       },
       {
@@ -206,28 +181,14 @@ module.exports = {
           type: Sequelize.DataTypes.STRING,
         },
 
-        createdAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        updatedAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        deletedAt: {
-          type: Sequelize.DataTypes.DATE,
-        },
+        ...timestamp,
       },
     );
 
     //* Create "roles_paginas" table
     await queryInterface.createTable(
       {
-        schema: 'sistemas',
+        schema,
         tableName: 'roles_pages',
       },
       {
@@ -255,48 +216,41 @@ module.exports = {
           },
         },
 
-        createdAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        updatedAt: {
-          type: Sequelize.DataTypes.DATE,
-          defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
-          allowNull: false,
-        },
-
-        deletedAt: {
-          type: Sequelize.DataTypes.DATE,
-        },
+        ...timestamp,
       },
     );
   },
 
-  async down(queryInterface, Sequelize) {
+  async down(queryInterface) {
+    const schema = 'sistemas';
+
+    // * Drop roles_pages table
     await queryInterface.dropTable({
-      schema: 'sistemas',
+      schema,
       tableName: 'roles_pages',
     });
 
+    // * Drop pages table
     await queryInterface.dropTable({
-      schema: 'sistemas',
+      schema,
       tableName: 'pages',
     });
 
+    // * Drop users table
     await queryInterface.dropTable({
-      schema: 'sistemas',
+      schema,
       tableName: 'users',
     });
 
+    // * Drop roles table
     await queryInterface.dropTable({
-      schema: 'sistemas',
+      schema,
       tableName: 'roles',
     });
 
+    // * Drop people table
     await queryInterface.dropTable({
-      schema: 'sistemas',
+      schema,
       tableName: 'people',
     });
   },

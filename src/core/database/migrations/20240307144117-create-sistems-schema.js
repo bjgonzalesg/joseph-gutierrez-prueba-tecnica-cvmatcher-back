@@ -2,11 +2,11 @@
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
-  async up(queryInterface, Sequelize) {
+  async up(queryInterface) {
     await queryInterface.createSchema('sistemas');
   },
 
-  async down(queryInterface, Sequelize) {
+  async down(queryInterface) {
     await queryInterface.dropSchema('sistemas');
   },
 };

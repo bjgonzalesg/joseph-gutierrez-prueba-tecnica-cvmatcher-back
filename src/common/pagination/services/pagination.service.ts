@@ -7,7 +7,10 @@ import { IPaginationProps, PaginationGenerateProps } from '../interfaces';
 export class PaginationService {
   constructor() {}
 
-  generate(props: PaginationGenerateProps): { limit: number; offset: number } {
+  generate(props: PaginationGenerateProps): {
+    limit: number;
+    offset: number;
+  } {
     const { page = envs.defaultPage, limit = envs.defaultLimit } = props;
 
     return {
@@ -17,35 +20,49 @@ export class PaginationService {
   }
 
   paginate<T>(props: IPaginationProps<T>): ResponsePaginationDto<T> {
-    const { total, page, limit, apiRoute, apiMethod, data, extraParams } =
-      props;
+    const {
+      total,
+      page,
+      limit,
+      apiRoute,
+      apiMethod,
+      rows,
+      extraParams,
+      extraQueries,
+    } = props;
 
     let extraParamsString: string = '';
+    let extraQueriesString: string = '';
 
     if (extraParams) {
-      for (const [key, value] of Object.entries(extraParams)) {
-        extraParamsString += `&${key}=${value}`;
+      extraParamsString =
+        '/' + extraParams.reduce((ac, item) => (ac += `/${item}`));
+    }
+
+    if (extraQueries) {
+      for (const [key, value] of Object.entries(extraQueries)) {
+        extraQueriesString += `&${key}=${value}`;
       }
     }
 
     return {
-      count: data.length,
+      count: rows.length,
       total,
       currentPage: page,
       totalPages: Math.ceil(total / limit),
       prev:
         page - 1 > 0
-          ? `${envs.appUrl}/${apiRoute}/${apiMethod}?page=${
+          ? `${envs.appUrl}/${apiRoute}/${apiMethod}${extraParamsString}?page=${
               page - 1
-            }&limit=${limit}${extraParamsString}`
+            }&limit=${limit}${extraQueriesString}`
           : null,
       next:
         page * limit < total
-          ? `${envs.appUrl}/${apiRoute}/${apiMethod}?page=${
+          ? `${envs.appUrl}/${apiRoute}/${apiMethod}${extraParamsString}?page=${
               page + 1
-            }&limit=${limit}${extraParamsString}`
+            }&limit=${limit}${extraQueriesString}`
           : null,
-      rows: data,
+      rows,
     };
   }
 }

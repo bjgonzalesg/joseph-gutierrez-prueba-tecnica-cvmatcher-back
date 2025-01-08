@@ -1,28 +1,32 @@
+import { envs } from '@/core/config';
 import 'dotenv/config';
 import { DatabaseConfigI } from '../interfaces/database.interface';
 
 export const databaseConfig: DatabaseConfigI = {
   development: {
-    dialect: process.env.DB_DIALECT,
-    host: process.env.DB_HOST,
-    port: process.env.DB_PORT,
-    username: process.env.DB_USER,
+    dialect: envs.dbDialect,
+    host: envs.dbHost,
+    port: envs.dbPort,
+    username: envs.dbUser,
     password: process.env.DB_PASS,
     database: process.env.DB_NAME_DEVELOPMENT,
+    migrationStorageTableName: envs.dbMigrationTable,
   },
   test: {
-    dialect: process.env.DB_DIALECT,
-    host: process.env.DB_HOST,
-    port: process.env.DB_PORT,
-    username: process.env.DB_USER,
+    dialect: envs.dbDialect,
+    host: envs.dbHost,
+    port: envs.dbPort,
+    username: envs.dbUser,
     password: process.env.DB_PASS,
     database: process.env.DB_NAME_DEVELOPMENT,
+    migrationStorageTableName: envs.dbMigrationTable,
   },
   production: {
-    dialect: process.env.DB_DIALECT,
-    host: process.env.DB_HOST,
-    username: process.env.DB_USER,
+    dialect: envs.dbDialect,
+    host: envs.dbHost,
+    username: envs.dbUser,
     password: process.env.DB_PASS,
     database: process.env.DB_NAME_DEVELOPMENT,
+    migrationStorageTableName: envs.dbMigrationTable,
   },
 };

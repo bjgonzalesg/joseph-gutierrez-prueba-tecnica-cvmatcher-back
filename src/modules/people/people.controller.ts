@@ -1,5 +1,5 @@
 import { EApiMethods, EApiRoutes } from '@/common/enums';
-import { Body, Controller, Get, Patch, Post } from '@nestjs/common';
+import { Body, Controller, Patch, Post } from '@nestjs/common';
 import { ApiCreatedResponse, ApiOkResponse, ApiTags } from '@nestjs/swagger';
 import { Auth, GetUser } from 'src/modules/auth/decorators';
 import { ERoles } from 'src/modules/auth/enums';
@@ -20,14 +20,7 @@ export class PeopleController {
     return this.peopleService.create(createPersonDto);
   }
 
-  @Get('find-one-by-document')
-  @ApiOkResponse({ type: Person })
-  @Auth()
-  findOne(@GetUser() user: UserDB) {
-    return this.peopleService.findOne(user);
-  }
-
-  @Patch('update')
+  @Patch(EApiMethods.UPDATE)
   @Auth()
   @ApiOkResponse({ type: Person })
   update(@GetUser() user: UserDB, @Body() updatePersonDto: UpdatePersonDto) {

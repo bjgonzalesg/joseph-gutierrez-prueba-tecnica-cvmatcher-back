@@ -4,6 +4,7 @@ export interface IPaginationProps<T> {
   limit: number;
   apiRoute: string;
   apiMethod: string;
-  extraParams?: object | null;
-  data: T[];
+  extraQueries?: object | null;
+  extraParams?: string[];
+  rows: T[];
 }

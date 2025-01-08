@@ -33,13 +33,6 @@ export class Person extends Model<Person> {
   @Column({
     type: DataType.STRING,
     allowNull: false,
-  })
-  nacionality: string;
-
-  @ApiProperty()
-  @Column({
-    type: DataType.STRING,
-    allowNull: false,
     unique: true,
   })
   document: string;
@@ -48,14 +41,19 @@ export class Person extends Model<Person> {
   @Column({
     type: DataType.STRING,
   })
-  telephone?: string;
+  nacionality?: string;
 
-  @ApiProperty()
+  @ApiPropertyOptional()
   @Column({
     type: DataType.STRING,
-    allowNull: false,
   })
-  gender: string;
+  telephone?: string;
+
+  @ApiPropertyOptional()
+  @Column({
+    type: DataType.STRING,
+  })
+  gender?: string;
 
   @ApiPropertyOptional()
   @Column({

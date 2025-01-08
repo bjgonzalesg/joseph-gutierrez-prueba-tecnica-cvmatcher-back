@@ -15,7 +15,7 @@ import { UsersService } from './users.service';
 export class UsersController {
   constructor(private readonly usersService: UsersService) {}
 
-  @Get(EApiMethods.FIND_ALL_PAGINATE)
+  @Get(EApiMethods.FIND_ALL_PAGINATED)
   @Auth(ERoles.ADMIN)
   @ApiOkResponse({ type: ResponsePaginationDto })
   findAllPaginate(@Query() createPaginationDto?: CreatePaginationDto) {

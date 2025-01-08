@@ -1,4 +1,8 @@
-import { CREDENTIALS_INVALID_MESSAGE, USER_REPOSITORY } from '@/core/constants';
+import {
+  CREDENTIALS_INVALID_MESSAGE,
+  USER_ALREADY_EXISTS_MESSAGE,
+  USER_REPOSITORY,
+} from '@/core/constants';
 import { CreateUserDto, UserDB } from '@/modules/users/dto';
 import { User } from '@/modules/users/entities';
 import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
@@ -31,7 +35,8 @@ export class AuthService {
 
     const verifyUser = await this.findOneUser(username);
 
-    if (verifyUser) throw new UnauthorizedException('El usuario ya existe');
+    if (verifyUser)
+      throw new UnauthorizedException(USER_ALREADY_EXISTS_MESSAGE);
 
     await this.userRepository.create({
       username,

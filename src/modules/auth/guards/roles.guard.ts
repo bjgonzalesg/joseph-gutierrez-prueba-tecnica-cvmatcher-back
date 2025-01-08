@@ -4,7 +4,6 @@ import {
   ROLES_KEY,
   USER_NOT_AUTHORIZED_MESSAGE,
 } from '@/core/constants';
-import { UserDB } from '@/modules/users/dto';
 import {
   CanActivate,
   ExecutionContext,
@@ -14,6 +13,8 @@ import {
 import { Reflector } from '@nestjs/core';
 import { Request } from 'express';
 import { Observable } from 'rxjs';
+import { ERoles } from '../enums';
+import { IPayload } from '../interfaces';
 
 @Injectable()
 export class RolesGuard implements CanActivate {
@@ -23,7 +24,7 @@ export class RolesGuard implements CanActivate {
     context: ExecutionContext,
   ): boolean | Promise<boolean> | Observable<boolean> {
     //* GET METADATA
-    const requiredRole = this.reflector.getAllAndOverride<string[]>(ROLES_KEY, [
+    const requiredRole = this.reflector.getAllAndOverride<ERoles[]>(ROLES_KEY, [
       context.getHandler(),
       context.getClass(),
     ]);
@@ -39,7 +40,7 @@ export class RolesGuard implements CanActivate {
       throw new UnauthorizedException(USER_NOT_AUTHORIZED_MESSAGE);
 
     // *GET USER
-    const user = req.user as UserDB;
+    const user = req.user as IPayload;
 
     // *CHECK ROLE
     const validRole = requiredRole.some((role) => user.role === role);

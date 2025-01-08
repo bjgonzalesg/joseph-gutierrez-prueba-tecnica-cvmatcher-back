@@ -6,7 +6,6 @@ import { BadRequestException, Inject, Injectable } from '@nestjs/common';
 import { UserDB } from '../users/dto';
 import { CreatePersonDto, UpdatePersonDto } from './dto';
 import { Person } from './entities';
-import { QueryTypes } from 'sequelize';
 
 @Injectable()
 export class PeopleService {
@@ -23,17 +22,6 @@ export class PeopleService {
       throw new BadRequestException(DOCUMENT_ALREADY_EXISTS_MESSAGE);
 
     return await this.personRepository.create(createPersonDto);
-  }
-
-  async findOne(user: UserDB): Promise<Person> {
-    const { document } = user;
-
-    const [person] = (await this.personRepository.sequelize.query(
-      'SELECT * FROM sistemas.fn_get_person_by_document(?)',
-      { type: QueryTypes.SELECT, replacements: [document] },
-    )) as [Person];
-
-    return person;
   }
 
   async update(

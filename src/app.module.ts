@@ -3,7 +3,6 @@ import { PaginationModule } from './common/pagination';
 import { DatabaseModule } from './core/database/database.module';
 import { AuthModule } from './modules/auth/auth.module';
 import { PeopleModule } from './modules/people/people.module';
-import { RolesModule } from './modules/roles/roles.module';
 import { UsersModule } from './modules/users/users.module';
 
 @Module({
@@ -13,7 +12,6 @@ import { UsersModule } from './modules/users/users.module';
     AuthModule,
     PeopleModule,
     PaginationModule,
-    RolesModule,
   ],
 })
 export class AppModule {}

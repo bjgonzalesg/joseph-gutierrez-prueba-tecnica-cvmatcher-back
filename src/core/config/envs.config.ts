@@ -24,6 +24,7 @@ interface EnvVars {
   DB_NAME_TEST: string;
   DB_NAME_DEVELOPMENT: string;
   DB_NAME_PRODUCTION: string;
+  DB_MIGRATION_TABLE: string;
 
   // *JWT
   JWT_KEY: string;
@@ -56,6 +57,7 @@ const envsSchema = joi
     DB_NAME_TEST: joi.string().required(),
     DB_NAME_DEVELOPMENT: joi.string().required(),
     DB_NAME_PRODUCTION: joi.string().required(),
+    DB_MIGRATION_TABLE: joi.string().required(),
 
     // *JWT
     JWT_KEY: joi.string().required(),
@@ -94,6 +96,7 @@ export const envs = {
   dbNameTest: envVars.DB_NAME_TEST,
   dbNameDevelopment: envVars.DB_NAME_DEVELOPMENT,
   dbNameProduction: envVars.DB_NAME_PRODUCTION,
+  dbMigrationTable: envVars.DB_MIGRATION_TABLE,
 
   // *JWT
   jwtKey: envVars.JWT_KEY,

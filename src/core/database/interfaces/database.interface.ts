@@ -5,6 +5,7 @@ export interface DatabaseConfigAttributesI {
   username?: string;
   password?: string;
   database?: string;
+  migrationStorageTableName?: string;
 }
 
 export interface DatabaseConfigI {

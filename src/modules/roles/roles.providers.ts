@@ -1,6 +1,6 @@
 import { ROLE_REPOSITORY } from '@/core/constants';
 import { Provider } from '@nestjs/common';
-import { Role } from '../entities';
+import { Role } from './role.entity';
 
 export const rolesProviders: Provider[] = [
   {
