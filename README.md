@@ -32,10 +32,10 @@ $ npm run start:dev
 
 ## Bajar la base de datos
 
-1. Run undo migration `npm run migrate:undo`
-2. Run undo all migrations `npm run migrate:undo:all`
-3. Run undo seeder `npm run seed:undo`
-4. Run undo all seeders `npm run seed:undo:all`
+1. Run undo migration `npm run db:migrate:undo`
+2. Run undo all migrations `npm run db:migrate:undo:all`
+3. Run undo seeder `npm run db:seed:undo`
+4. Run undo all seeders `npm run db:seed:undo:all`
 
 ## DOCKER
 
