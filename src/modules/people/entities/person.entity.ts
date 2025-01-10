@@ -3,7 +3,7 @@ import { Column, DataType, Model, Table } from 'sequelize-typescript';
 
 @Table({
   schema: 'sistemas',
-  tableName: 'people',
+  tableName: 'personas',
   paranoid: true,
 })
 export class Person extends Model<Person> {

@@ -3,16 +3,10 @@
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
   async up(queryInterface) {
-    await queryInterface.sequelize.query(
-      `
-      `,
-    );
+    await queryInterface.createSchema('boletaspago');
   },
 
   async down(queryInterface) {
-    await queryInterface.sequelize.query(
-      `
-      `,
-    );
+    await queryInterface.dropSchema('boletaspago');
   },
 };

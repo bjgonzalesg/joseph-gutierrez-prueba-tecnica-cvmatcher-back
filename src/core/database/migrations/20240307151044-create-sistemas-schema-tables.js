@@ -23,11 +23,35 @@ module.exports = {
       },
     };
 
-    //* Create "people" table
+    //* Crear la tabla "documento_tipos"
     await queryInterface.createTable(
       {
         schema,
-        tableName: 'people',
+        tableName: 'documento_tipos',
+      },
+      {
+        id: {
+          type: Sequelize.DataTypes.INTEGER,
+          primaryKey: true,
+          autoIncrement: true,
+        },
+        nombre: {
+          type: Sequelize.DataTypes.STRING,
+          allowNull: false,
+        },
+        abreviatura: {
+          type: Sequelize.DataTypes.STRING,
+          allowNull: false,
+        },
+        ...timestamp,
+      },
+    );
+
+    //* Create "personas" table
+    await queryInterface.createTable(
+      {
+        schema,
+        tableName: 'personas',
       },
       {
         id: {
@@ -36,47 +60,41 @@ module.exports = {
           autoIncrement: true,
         },
 
-        surnames: {
+        apellido_paterno: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
         },
 
-        names: {
+        apellido_materno: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
         },
 
-        document: {
+        documento_tipo_id: {
+          type: Sequelize.DataTypes.INTEGER,
+          allowNull: false,
+          references: {
+            model: { schema, tableName: 'documento_tipos' },
+            key: 'id',
+          },
+        },
+
+        documento: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
           unique: true,
         },
 
-        nacionality: {
+        nombres: {
           type: Sequelize.DataTypes.STRING,
-        },
-
-        telephone: {
-          type: Sequelize.DataTypes.STRING,
-        },
-
-        gender: {
-          type: Sequelize.DataTypes.STRING,
-        },
-
-        date: {
-          type: Sequelize.DataTypes.DATEONLY,
-        },
-
-        address: {
-          type: Sequelize.DataTypes.STRING,
+          allowNull: false,
         },
 
         ...timestamp,
       },
     );
 
-    //* Create "roles" table
+    //* Crear la tabla "roles"
     await queryInterface.createTable(
       {
         schema,
@@ -89,24 +107,20 @@ module.exports = {
           autoIncrement: true,
         },
 
-        name: {
+        nombre: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
-        },
-
-        description: {
-          type: Sequelize.DataTypes.STRING,
         },
 
         ...timestamp,
       },
     );
 
-    //* Create "usuarios" table
+    //* Crear la tabla "usuarios"
     await queryInterface.createTable(
       {
         schema,
-        tableName: 'users',
+        tableName: 'usuarios',
       },
       {
         id: {
@@ -126,17 +140,17 @@ module.exports = {
           allowNull: false,
         },
 
-        person_id: {
+        persona_id: {
           type: Sequelize.DataTypes.INTEGER,
           allowNull: false,
           unique: true,
           references: {
-            model: 'people',
+            model: { schema, tableName: 'personas' },
             key: 'id',
           },
         },
 
-        role_id: {
+        rol_id: {
           type: Sequelize.DataTypes.INTEGER,
           allowNull: false,
           references: {
@@ -153,7 +167,7 @@ module.exports = {
     await queryInterface.createTable(
       {
         schema,
-        tableName: 'pages',
+        tableName: 'paginas',
       },
       {
         id: {
@@ -162,22 +176,22 @@ module.exports = {
           autoIncrement: true,
         },
 
-        name: {
+        nombre: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
         },
 
-        description: {
+        descripcion: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
         },
 
-        path: {
+        ruta: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
         },
 
-        icon: {
+        icono: {
           type: Sequelize.DataTypes.STRING,
         },
 
@@ -189,7 +203,7 @@ module.exports = {
     await queryInterface.createTable(
       {
         schema,
-        tableName: 'roles_pages',
+        tableName: 'roles_paginas',
       },
       {
         id: {
@@ -198,20 +212,20 @@ module.exports = {
           autoIncrement: true,
         },
 
-        role_id: {
+        rol_id: {
           type: Sequelize.DataTypes.INTEGER,
           allowNull: false,
           references: {
-            model: 'roles',
+            model: { schema, tableName: 'roles' },
             key: 'id',
           },
         },
 
-        page_id: {
+        pagina_id: {
           type: Sequelize.DataTypes.INTEGER,
           allowNull: false,
           references: {
-            model: 'pages',
+            model: { schema, tableName: 'paginas' },
             key: 'id',
           },
         },
@@ -224,34 +238,22 @@ module.exports = {
   async down(queryInterface) {
     const schema = 'sistemas';
 
-    // * Drop roles_pages table
-    await queryInterface.dropTable({
-      schema,
-      tableName: 'roles_pages',
-    });
+    // Eliminar la tabla "roles_paginas"
+    await queryInterface.dropTable({ schema, tableName: 'roles_paginas' });
 
-    // * Drop pages table
-    await queryInterface.dropTable({
-      schema,
-      tableName: 'pages',
-    });
+    // Eliminar la tabla "paginas"
+    await queryInterface.dropTable({ schema, tableName: 'paginas' });
 
-    // * Drop users table
-    await queryInterface.dropTable({
-      schema,
-      tableName: 'users',
-    });
+    // Eliminar la tabla "usuarios"
+    await queryInterface.dropTable({ schema, tableName: 'usuarios' });
 
-    // * Drop roles table
-    await queryInterface.dropTable({
-      schema,
-      tableName: 'roles',
-    });
+    // Eliminar la tabla "roles"
+    await queryInterface.dropTable({ schema, tableName: 'roles' });
 
-    // * Drop people table
-    await queryInterface.dropTable({
-      schema,
-      tableName: 'people',
-    });
+    // Eliminar la tabla "personas"
+    await queryInterface.dropTable({ schema, tableName: 'personas' });
+
+    // Eliminar la tabla "documento_tipos"
+    await queryInterface.dropTable({ schema, tableName: 'documento_tipos' });
   },
 };
