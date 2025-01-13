@@ -14,7 +14,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -25,7 +26,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: '200760DPBI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -36,7 +38,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '222981SSSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -47,7 +50,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '520440CGSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -58,7 +62,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '233980PCVT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -69,7 +74,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '588960CSCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -80,7 +86,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '538641SPGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -91,7 +98,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '192771CGCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -102,7 +110,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '213451PACE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -113,7 +122,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '478691PPPD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -124,7 +134,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '585781JAGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -135,7 +146,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: '207420ICSV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -146,7 +158,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '228771CGCM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -157,7 +170,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '245951JRCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -168,7 +182,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -179,7 +194,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '523170NADI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -190,7 +206,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '549191SGGZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -201,7 +218,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '532690ODCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -212,7 +230,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -223,7 +242,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '567050MIHU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -234,7 +254,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '569661NYRN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -245,7 +266,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -256,7 +278,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '206881RVGU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -267,7 +290,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '272271VGFT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -278,7 +302,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -289,7 +314,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '596851LCCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -300,7 +326,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '548770LDAZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -311,7 +338,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '269740SRAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -322,7 +350,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '544430TVVG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -333,7 +362,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '624130MLGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -344,7 +374,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '570511EAVB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -355,7 +386,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '567941JRRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -366,7 +398,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '614990SVAD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -377,7 +410,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -388,7 +422,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '614921KMRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -399,7 +434,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '551260MSCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -410,7 +446,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -421,7 +458,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -432,7 +470,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '584511HRAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -443,7 +482,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -454,7 +494,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '571791FFVN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -465,7 +506,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -476,7 +518,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -487,7 +530,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '534760FRPD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -498,7 +542,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '634871ACCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -509,7 +554,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -520,7 +566,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '567090AVMQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -531,7 +578,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '540510MBBV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -542,7 +590,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -553,7 +602,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '556510MPMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -564,7 +614,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '641271AGRL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -575,7 +626,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '623161ABMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -586,7 +638,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -597,7 +650,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '568391WGRL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -608,7 +662,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '609371JRCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -619,7 +674,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '533031MVTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -630,7 +686,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -641,7 +698,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '606951JARL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -652,7 +710,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '633031VPCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -663,7 +722,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '591711HVPC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -674,7 +734,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '600720FGGO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -685,7 +746,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '552131ETAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -696,7 +758,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '600121JASS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -707,7 +770,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '326661ELSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -718,7 +782,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '602761JCCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -729,7 +794,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '585931PZAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -740,7 +806,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '636770MGAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -751,7 +818,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '618311AMNA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -762,7 +830,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '601771RELI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -773,7 +842,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -784,7 +854,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '331631HAPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -795,7 +866,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '559901LLAC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -806,7 +878,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '562541EGGC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -817,7 +890,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '586351VSTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -828,7 +902,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '599621MSLC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -839,7 +914,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '594921CRCG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -850,7 +926,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '576341RASY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -861,7 +938,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '581880MPRL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -872,7 +950,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -883,7 +962,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '339210OPCS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -894,7 +974,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '629151MOCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -905,7 +986,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '573930MHRM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -916,7 +998,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -927,7 +1010,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -938,7 +1022,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -949,7 +1034,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '603690NCRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -960,7 +1046,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '606421KVAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -971,7 +1058,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '603151DLCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -982,7 +1070,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '604001ELRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -993,7 +1082,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '595280MSSC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1004,7 +1094,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '609631RZLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1015,7 +1106,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1026,7 +1118,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '578321TCDV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1037,7 +1130,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '572391JBHA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1048,7 +1142,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1059,7 +1154,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1070,7 +1166,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '551800MSPC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1081,7 +1178,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '599501JGVC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1092,7 +1190,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1103,7 +1202,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '551591EVRG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1114,7 +1214,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '594791MRAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1125,7 +1226,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1136,7 +1238,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '572480RRCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1147,7 +1250,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '296641CAAV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1158,7 +1262,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '323151CECE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1169,7 +1274,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '564771MCUM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1180,7 +1286,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '598670CCAD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1191,7 +1298,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '569640LTVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1202,7 +1310,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '242831VCMT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1213,7 +1322,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '569051VCDL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1224,7 +1334,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '539891FBLR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1235,7 +1346,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '625120FCAD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1246,7 +1358,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '269870LZAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1257,7 +1370,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '594471JATA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1268,7 +1382,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '562091PSTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1279,7 +1394,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '562631JJPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1290,7 +1406,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '225110RVFG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1301,7 +1418,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1312,7 +1430,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '601731ADBZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1323,7 +1442,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1334,7 +1454,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '593701GAAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1345,7 +1466,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '616131RBBA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1356,7 +1478,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '574911WJGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1367,7 +1490,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '228071ACOL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1378,7 +1502,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1389,7 +1514,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1400,7 +1526,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '599071jldo',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1411,7 +1538,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '560261CPME',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1422,7 +1550,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1433,7 +1562,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '568901CVPT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1444,7 +1574,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '330721WULR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1455,7 +1586,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '564880MACO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1466,7 +1598,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '597660GVUA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1477,7 +1610,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '306101VJCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1488,7 +1622,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '577731CSBA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1499,7 +1634,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '623460FSLI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1510,7 +1646,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '319621JRCG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1521,7 +1658,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1532,7 +1670,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1543,7 +1682,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '627471JALA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1554,7 +1694,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '576901PFBN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1565,7 +1706,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1576,7 +1718,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '585201EJGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1587,7 +1730,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '259941JPAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1598,7 +1742,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '614400JCRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1609,7 +1754,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1620,7 +1766,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '606301HRAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1631,7 +1778,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '633730CGVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1642,7 +1790,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '608070CRAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1653,7 +1802,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '519621AQNV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1664,7 +1814,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1675,7 +1826,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '624001ETLR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1686,7 +1838,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '625230KCPO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1697,7 +1850,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1708,7 +1862,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '609741JCZT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1719,7 +1874,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '544901GACI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1730,7 +1886,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '607491GPBE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1741,7 +1898,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '620461JADE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1752,7 +1910,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '615600LPMT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1763,7 +1922,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '609950JVPL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1774,7 +1934,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1785,7 +1946,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '624281MRGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1796,7 +1958,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '639911JCVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1807,7 +1970,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '329451JROR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1818,7 +1982,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '610471JTSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1829,7 +1994,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '602971CCRM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1840,7 +2006,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '605850JERI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1851,7 +2018,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1862,7 +2030,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1873,7 +2042,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '313841SSPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1884,7 +2054,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '603381JPRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1895,7 +2066,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '240551HSVU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1906,7 +2078,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '567041ACVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1917,7 +2090,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '582151JMCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1928,7 +2102,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1939,7 +2114,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '573341EPMZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1950,7 +2126,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '627660YSVT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1961,7 +2138,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '574650DBVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1972,7 +2150,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1983,7 +2162,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '566550RAAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -1994,7 +2174,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2005,7 +2186,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2016,7 +2198,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '600791JRSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2027,7 +2210,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2038,7 +2222,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '554091VCRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2049,7 +2234,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '598271GFCF',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2060,7 +2246,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '599921CTRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2071,7 +2258,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '566401JMLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2082,7 +2270,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '563881CAAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2093,7 +2282,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '228881ACRT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2104,7 +2294,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '605171LCRT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2115,7 +2306,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '578351JVDQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2126,7 +2318,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '602731OVSQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2137,7 +2330,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2148,7 +2342,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '587111MGEC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2159,7 +2354,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '559691MGAO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2170,7 +2366,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '576540RLGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2181,7 +2378,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '577461AOZY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2192,7 +2390,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '580671ARRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2203,7 +2402,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '595851CMEA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2214,7 +2414,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2225,7 +2426,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '556990RRCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2236,7 +2438,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2247,7 +2450,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2258,7 +2462,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '616791DQSS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2269,7 +2474,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '256760MNRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2280,7 +2486,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2291,7 +2498,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '613191ENVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2302,7 +2510,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '598431MBCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2313,7 +2522,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '545871GFEN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2324,7 +2534,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '570681MDRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2335,7 +2546,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '552681JARA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2346,7 +2558,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '572311CQAS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2357,7 +2570,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '588871ECCQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2368,7 +2582,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2379,7 +2594,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '585890CAFA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2390,7 +2606,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '562061CSCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2401,7 +2618,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2412,7 +2630,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '611021CRSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2423,7 +2642,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2434,7 +2654,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2445,7 +2666,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '615081CDSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2456,7 +2678,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '642681CQC¥',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2467,7 +2690,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '604010MJCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2478,7 +2702,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '559391RRPZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2489,7 +2714,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '527250VVRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2500,7 +2726,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '594370NTTR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2511,7 +2738,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '608820PTMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2522,7 +2750,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '564030MASA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2533,7 +2762,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '524031VSQA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2544,7 +2774,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '337630LOVU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2555,7 +2786,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '590631NLLY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2566,7 +2798,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '617800YZPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2577,7 +2810,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '604671EDPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2588,7 +2822,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '583171YUGU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2599,7 +2834,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2610,7 +2846,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2621,7 +2858,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2632,7 +2870,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '545651ECEP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2643,7 +2882,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2654,7 +2894,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '544370BCGD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2665,7 +2906,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '301960LMLH',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2676,7 +2918,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2687,7 +2930,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '596970VNUI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2698,7 +2942,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2709,7 +2954,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '528011FRLI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2720,7 +2966,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '572441CRRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2731,7 +2978,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '571711JCCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2742,7 +2990,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '589301JFGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2753,7 +3002,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '560840MSRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2764,7 +3014,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '616560NVVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2775,7 +3026,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '604231ABAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2786,7 +3038,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '627861CPCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2797,7 +3050,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '324401WBRS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2808,7 +3062,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2819,7 +3074,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '542801JGLR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2830,7 +3086,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '588861JVJL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2841,7 +3098,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '329661JBSE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2852,7 +3110,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '608021GNZR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2863,7 +3122,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2874,7 +3134,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2885,7 +3146,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '614490RRCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2896,7 +3158,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '582991RPVC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2907,7 +3170,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '608701CRCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2918,7 +3182,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '570010JGVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2929,7 +3194,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '640821KFTR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2940,7 +3206,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '568980SSPC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2951,7 +3218,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '587131WLJE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2962,7 +3230,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2973,7 +3242,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '593931JQSP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2984,7 +3254,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '591431HSMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -2995,7 +3266,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '562531MSQC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3006,7 +3278,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '546721DDGN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3017,7 +3290,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '225990MVAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3028,7 +3302,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '553761LCSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3039,7 +3314,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3050,7 +3326,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '573821PSRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3061,7 +3338,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '617971MSGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3072,7 +3350,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '583771DGCC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3083,7 +3362,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3094,7 +3374,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '245991VAPN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3105,7 +3386,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3116,7 +3398,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3127,7 +3410,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '589290KGTI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3138,7 +3422,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '243140EVVG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3149,7 +3434,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3160,7 +3446,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '583401CAFL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3171,7 +3458,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3182,7 +3470,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '242241LCAN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3193,7 +3482,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '296861GFTR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3204,7 +3494,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3215,7 +3506,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3226,7 +3518,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '555481JCCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3237,7 +3530,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: '552090JOSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3248,7 +3542,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3259,7 +3554,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3270,7 +3566,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3281,7 +3578,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3292,7 +3590,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3303,7 +3602,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: '546230MPAU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3314,7 +3614,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3325,7 +3626,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '572081EPCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3336,7 +3638,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '569881ACEZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3347,7 +3650,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '315651OASA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3358,7 +3662,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '616800JTBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3369,7 +3674,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3380,7 +3686,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '565381JCCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3391,7 +3698,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '603330MGVD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3402,7 +3710,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '322001JCRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3413,7 +3722,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '562301LTSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3424,7 +3734,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '242680IABA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3435,7 +3746,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3446,7 +3758,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '576051JZSB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3457,7 +3770,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '544911JPGO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3468,7 +3782,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '646810RCMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3479,7 +3794,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '646271APAN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3490,7 +3806,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3501,7 +3818,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '649381RPAO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3512,7 +3830,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3523,7 +3842,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3534,7 +3854,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '575891JOPM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3545,7 +3866,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3556,7 +3878,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '334500BEPI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3567,7 +3890,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '649251ABHS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3578,7 +3902,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '536131STRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3589,7 +3914,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '571661JPCS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3600,7 +3926,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3611,7 +3938,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3622,7 +3950,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '628141GDZZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3633,7 +3962,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '644761RGGC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3644,7 +3974,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3655,7 +3986,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '559821WCLR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3666,7 +3998,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3677,7 +4010,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '330251ICPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3688,7 +4022,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '621550DRCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3699,7 +4034,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '631820TPVE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3710,7 +4046,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '647850VVRL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3721,7 +4058,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '564400SQCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3732,7 +4070,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '547330RPVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3743,7 +4082,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3754,7 +4094,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '604671RRCD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3765,7 +4106,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '575981KFLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3776,7 +4118,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '575240RBHT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3787,7 +4130,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3798,7 +4142,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3809,7 +4154,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '330701JCMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3820,7 +4166,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '632291FGEE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3831,7 +4178,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3842,7 +4190,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '601851WGGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3853,7 +4202,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '623121EMRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3864,7 +4214,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '652220CARA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3875,7 +4226,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3886,7 +4238,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3897,7 +4250,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '598951FRQA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3908,7 +4262,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '581531EGAM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3919,7 +4274,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '557440LRMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3930,7 +4286,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '592761MMMD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3941,7 +4298,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '576910RSMC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3952,7 +4310,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '593950GCMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3963,7 +4322,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '582280LSAL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3974,7 +4334,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3985,7 +4346,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -3996,7 +4358,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4007,7 +4370,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4018,7 +4382,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '541091JVGQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4029,7 +4394,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '572590PRGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4040,7 +4406,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '640361RBTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4051,7 +4418,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '620611EPBO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4062,7 +4430,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '574331SRCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4073,7 +4442,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '632131JGSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4084,7 +4454,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '608690DJVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4095,7 +4466,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4106,7 +4478,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '211681JACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4117,7 +4490,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '498031CAFA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4128,7 +4502,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '208271CARA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4139,7 +4514,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4150,7 +4526,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '199761OAHU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4161,7 +4538,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '206370DABA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4172,7 +4550,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '175861RACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4183,7 +4562,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4194,7 +4574,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '215580DADA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4205,7 +4586,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4216,7 +4598,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '236751RAZA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4227,7 +4610,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '537950EALA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4238,7 +4622,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '213661LALA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4249,7 +4634,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '508130MAMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4260,7 +4646,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '234471HAQA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4271,7 +4658,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '188091JACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4282,7 +4670,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '240261JARA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4293,7 +4682,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '192131EAII',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4304,7 +4694,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '526330MACS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4315,7 +4706,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '230831LASE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4326,7 +4718,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '234701FABU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4337,7 +4730,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '200441IACU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4348,7 +4742,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '226531LAMU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4359,7 +4754,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '480871EAMU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4370,7 +4766,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '208021AANW',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4381,7 +4778,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '210131JAPI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4392,7 +4790,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '228881SAPI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4403,7 +4802,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242661NASG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4414,7 +4814,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '210770MAVN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4425,7 +4826,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '205331EAAU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4436,7 +4838,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4447,7 +4850,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '194020LAFA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4458,7 +4862,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '172451CACI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4469,7 +4874,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '209001LATE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4480,7 +4886,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '500070CAPN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4491,7 +4898,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '208510MACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4502,7 +4910,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '217701NACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4513,7 +4922,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '218001SACL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4524,7 +4934,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4535,7 +4946,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '210320MARL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4546,7 +4958,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220431JAGB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4557,7 +4970,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229821MBLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4568,7 +4982,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4579,7 +4994,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '230720NBLR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4590,7 +5006,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '207961WBVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4601,7 +5018,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '204181ABLT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4612,7 +5030,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '206100RBEA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4623,7 +5042,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527790MBCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4634,7 +5054,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '234430DBAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4645,7 +5066,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4656,7 +5078,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '196431MBGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4667,7 +5090,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '465081GBJI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4678,7 +5102,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '207671FBPN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4689,7 +5114,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '225971WBCS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4700,7 +5126,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '496161CBGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4711,7 +5138,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '493471SBOA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4722,7 +5150,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '205770MBRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4733,7 +5162,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '202301JBVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4744,7 +5174,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '226750MBPB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4755,7 +5186,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4766,7 +5198,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '508841JBCO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4777,7 +5210,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '206201ABVG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4788,7 +5222,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4799,7 +5234,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '517340JBRT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4810,7 +5246,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '228090OCAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4821,7 +5258,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '203020ACCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4832,7 +5270,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4843,7 +5282,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '483021RCMF',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4854,7 +5294,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '526831CCCD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4865,7 +5306,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '474861MCCL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4876,7 +5318,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '232401LCSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4887,7 +5330,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '200311JCRP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4898,7 +5342,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '497271ECUO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4909,7 +5354,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '162921SCHT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4920,7 +5366,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '211920ACVB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4931,7 +5378,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4942,7 +5390,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218800ECAN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4953,7 +5402,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '205431ACCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4964,7 +5414,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4975,7 +5426,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4986,7 +5438,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '508811ACSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -4997,7 +5450,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '210871JCCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5008,7 +5462,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '196520ICCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5019,7 +5474,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '246471WCGT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5030,7 +5486,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '481121JCMT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5041,7 +5498,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '216781SCCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5052,7 +5510,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5063,7 +5522,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '199661ECPT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5074,7 +5534,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '209291ACVT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5085,7 +5546,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '187011DCVT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5096,7 +5558,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '213720MCAT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5107,7 +5570,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '194511CCUU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5118,7 +5582,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '482361MCAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5129,7 +5594,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '486881LCCP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5140,7 +5606,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '203161VCAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5151,7 +5618,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '478580LCRP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5162,7 +5630,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5173,7 +5642,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5184,7 +5654,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '227881JCMT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5195,7 +5666,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '530151DCPD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5206,7 +5678,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '502510RCVN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5217,7 +5690,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '198661VCYO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5228,7 +5702,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '494641LCTO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5239,7 +5714,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '176881JCAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5250,7 +5726,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '178141JCTR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5261,7 +5738,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '213991MCGT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5272,7 +5750,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '193971ACGT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5283,7 +5762,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '182181NCST',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5294,7 +5774,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '214261SCBZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5305,7 +5786,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '535610MCBZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5316,7 +5798,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '222211CCCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5327,7 +5810,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208161TCUZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5338,7 +5822,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '231691HCAZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5349,7 +5834,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '201251JCJZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5360,7 +5846,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '180911RCHZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5371,7 +5858,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '219151JCCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5382,7 +5870,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '540201VCRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5393,7 +5882,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '184130MCMM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5404,7 +5894,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '246351JCAN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5415,7 +5906,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '209081VCCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5426,7 +5918,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '214451LCAV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5437,7 +5930,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5448,7 +5942,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229510SCCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5459,7 +5954,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5470,7 +5966,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220551JCRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5481,7 +5978,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '194170RCCU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5492,7 +5990,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '213350TCEU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5503,7 +6002,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '190720TDHG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5514,7 +6014,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '183321PCRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5525,7 +6026,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '511511DCRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5536,7 +6038,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5547,7 +6050,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '210971RDVG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5558,7 +6062,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5569,7 +6074,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '481541MDBZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5580,7 +6086,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '186091ADCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5591,7 +6098,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '482561SDCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5602,7 +6110,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '225331JDLZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5613,7 +6122,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '203691JDPZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5624,7 +6134,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '211471JDUZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5635,7 +6146,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '201440MDQS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5646,7 +6158,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '213871JDVN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5657,7 +6170,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '204111JDQA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5668,7 +6182,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '195291EEPO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5679,7 +6194,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '211290MECA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5690,7 +6206,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '224901CEAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5701,7 +6218,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '214021JEAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5712,7 +6230,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5723,7 +6242,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '501671CEFU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5734,7 +6254,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '476061JEPU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5745,7 +6266,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '201861LEAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5756,7 +6278,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '518011GECO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5767,7 +6290,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208991GEBN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5778,7 +6302,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '524371CFCL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5789,7 +6314,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '526501LFVF',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5800,7 +6326,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '189181NFPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5811,7 +6338,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '209971HFCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5822,7 +6350,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '190291EFSN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5833,7 +6362,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5844,7 +6374,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220361GFPS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5855,7 +6386,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229830YFBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5866,7 +6398,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '249200JFBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5877,7 +6410,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '482331HFUR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5888,7 +6422,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '503231LFZR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5899,7 +6434,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '480121CFCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5910,7 +6446,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '504441LFMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5921,7 +6458,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '216861JGML',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5932,7 +6470,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '221291SGOL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5943,7 +6482,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '504761VGAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5954,7 +6494,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '203681CGSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5965,7 +6506,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '491491JGSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5976,7 +6518,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '522310LGBB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5987,7 +6530,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '229360SGAC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -5998,7 +6542,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '173171SGAC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6009,7 +6554,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '202651MGCC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6020,7 +6566,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '507331SGAC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6031,7 +6578,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '189781EGPC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6042,7 +6590,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '213260AGTC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6053,7 +6602,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '195051AGRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6064,7 +6614,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530881JGVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6075,7 +6626,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '213831WGGL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6086,7 +6638,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '459031CGGL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6097,7 +6650,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '246241RGAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6108,7 +6662,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229020SGCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6119,7 +6674,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '492950MGLE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6130,7 +6686,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6141,7 +6698,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '511951JGHZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6152,7 +6710,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '483271LGNZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6163,7 +6722,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '478491OGNZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6174,7 +6734,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6185,7 +6746,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '191811JGZZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6196,7 +6758,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6207,7 +6770,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6218,7 +6782,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '195581JGAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6229,7 +6794,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '222840LGER',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6240,7 +6806,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '219720AGPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6251,7 +6818,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '228691EGGV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6262,7 +6830,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '213660MGHV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6273,7 +6842,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '498711MGVV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6284,7 +6854,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '214211SGOB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6295,7 +6866,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '218511MGDL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6306,7 +6878,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '500360JGSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6317,7 +6890,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '517771CGDM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6328,7 +6902,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6339,7 +6914,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6350,7 +6926,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '532231AHMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6361,7 +6938,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6372,7 +6950,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '499071CHIO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6383,7 +6962,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '237861JHMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6394,7 +6974,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '226490EHRM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6405,7 +6986,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '172781JHSM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6416,7 +6998,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '233521SHSM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6427,7 +7010,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '5162115HDM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6438,7 +7022,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6449,7 +7034,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218220FHAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6460,7 +7046,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '196961RHAT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6471,7 +7058,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '227031MHGT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6482,7 +7070,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '208231EIZ¥',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6493,7 +7082,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '547410MIDR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6504,7 +7094,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '235851JICO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6515,7 +7106,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6526,7 +7118,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '211521SIZC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6537,7 +7130,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '235451VIGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6548,7 +7142,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6559,7 +7154,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '485391JICN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6570,7 +7166,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '173791MJCM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6581,7 +7178,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '235031GJAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6592,7 +7190,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '205651CJCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6603,7 +7202,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '245311LLRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6614,7 +7214,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '188561VLTU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6625,7 +7226,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220081VLAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6636,7 +7238,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6647,7 +7250,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '229601ALDN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6658,7 +7262,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '247811ELDN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6669,7 +7274,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '214531JLDN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6680,7 +7286,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '207090RLFN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6691,7 +7298,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '231611SLFN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6702,7 +7310,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '210890RLLN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6713,7 +7322,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '197060LLMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6724,7 +7334,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '518670ALGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6735,7 +7346,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6746,7 +7358,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '218311SLPU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6757,7 +7370,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242290MLAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6768,7 +7382,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '227371FLBE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6779,7 +7394,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '235171SLBE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6790,7 +7406,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '203071SLME',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6801,7 +7418,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '515361GLZE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6812,7 +7430,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '495791WLCO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6823,7 +7442,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '502491BLVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6834,7 +7454,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '207281ALSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6845,7 +7466,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242201MLAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6856,7 +7478,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '200250MLHA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6867,7 +7490,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '215080FLMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6878,7 +7502,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '213421JLCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6889,7 +7514,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '529321WLSQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6900,7 +7526,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '207721WMVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6911,7 +7538,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '225340VMZA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6922,7 +7550,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218671RMRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6933,7 +7562,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6944,7 +7574,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '228431DMCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6955,7 +7586,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '225611FMCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6966,7 +7598,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208120EMDI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6977,7 +7610,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '203500CMCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6988,7 +7622,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '235511JMRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -6999,7 +7634,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '203431GMCD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7010,7 +7646,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '233291JMMD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7021,7 +7658,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '200120VMOD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7032,7 +7670,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '205851GMAU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7043,7 +7682,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '478830JMQC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7054,7 +7694,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '503931CMMC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7065,7 +7706,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '221950MMRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7076,7 +7718,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '502690AMTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7087,7 +7730,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '196411LMAC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7098,7 +7742,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7109,7 +7754,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '207831MMOG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7120,7 +7766,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '215580MMST',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7131,7 +7778,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218841MMFT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7142,7 +7790,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7153,7 +7802,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '218411WMFE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7164,7 +7814,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '496381AMRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7175,7 +7826,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217891JMRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7186,7 +7838,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '207111OMAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7197,7 +7850,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '184281JMLT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7208,7 +7862,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '199310SMLT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7219,7 +7874,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '525571CMBO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7230,7 +7886,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '232751LMDO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7241,7 +7898,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7252,7 +7910,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7263,7 +7922,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '202461JNCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7274,7 +7934,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '170831JNEB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7285,7 +7946,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '225220RNTB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7296,7 +7958,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '211981MNLE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7307,7 +7970,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '516411WOMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7318,7 +7982,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7329,7 +7994,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '160721WOTS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7340,7 +8006,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '522051LOSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7351,7 +8018,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7362,7 +8030,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '518970SOGV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7373,7 +8042,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '200630LOGJ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7384,7 +8054,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7395,7 +8066,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '199901JOLI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7406,7 +8078,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '207261COMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7417,7 +8090,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '536630TOTI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7428,7 +8102,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '533691GPHH',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7439,7 +8114,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '480921SPSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7450,7 +8126,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '500481RPVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7461,7 +8138,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '525700APHA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7472,7 +8150,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '529250LPHM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7483,7 +8162,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '473080GPTO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7494,7 +8174,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '227801JPMT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7505,7 +8186,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '215011FPVE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7516,7 +8198,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7527,7 +8210,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '209090FPGT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7538,7 +8222,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '202221RPGT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7549,7 +8234,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '252081EPRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7560,7 +8246,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '232831JPSH',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7571,7 +8258,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '224221JPAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7582,7 +8270,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229391FPPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7593,7 +8282,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '200660GPDE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7604,7 +8294,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7615,7 +8306,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '196430CPVE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7626,7 +8318,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7637,7 +8330,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7648,7 +8342,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '227150MPRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7659,7 +8354,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7670,7 +8366,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7681,7 +8378,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '213381WPAS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7692,7 +8390,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7703,7 +8402,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '197981LPVL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7714,7 +8414,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '535551PPGC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7725,7 +8426,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7736,7 +8438,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7747,7 +8450,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7758,7 +8462,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '206651IPFI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7769,7 +8474,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7780,7 +8486,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '211181VQLL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7791,7 +8498,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '196821RQMS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7802,7 +8510,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '527871JQRS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7813,7 +8522,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217530ARSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7824,7 +8534,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '235891ARMC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7835,7 +8546,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '179811MRBI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7846,7 +8558,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '206451RRCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7857,7 +8570,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '231371SRCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7868,7 +8582,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '502531ARCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7879,7 +8594,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '486000ERGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7890,7 +8606,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '474251GRLI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7901,7 +8618,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '234291MRVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7912,7 +8630,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '241591MRNT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7923,7 +8642,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '212111VRFU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7934,7 +8654,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '491341LRBE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7945,7 +8666,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '211050MRBE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7956,7 +8678,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '499141WRLE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7967,7 +8690,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '192471IRLE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7978,7 +8702,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '188681LRSE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -7989,7 +8714,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '209721MRCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8000,7 +8726,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '211351MRLN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8011,7 +8738,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '245961RRSN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8022,7 +8750,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8033,7 +8762,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8044,7 +8774,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8055,7 +8786,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '215910PRGS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8066,7 +8798,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '188441JRMS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8077,7 +8810,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '209451JRMS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8088,7 +8822,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '193681ARMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8099,7 +8834,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8110,7 +8846,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '207791JRME',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8121,7 +8858,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217741HRCL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8132,7 +8870,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220640ARAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8143,7 +8882,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '182301ARCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8154,7 +8894,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '242490RRDR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8165,7 +8906,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8176,7 +8918,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218040MRER',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8187,7 +8930,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '517680IRHR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8198,7 +8942,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8209,7 +8954,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '186970CRMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8220,7 +8966,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '515920EROR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8231,7 +8978,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '211291RRRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8242,7 +8990,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208180YRSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8253,7 +9002,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8264,7 +9014,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530121GRAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8275,7 +9026,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '191220MRRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8286,7 +9038,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '225930JRJA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8297,7 +9050,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '231601JRLD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8308,7 +9062,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '238400JRRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8319,7 +9074,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '215990RRAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8330,7 +9086,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '197001FRRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8341,7 +9098,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '221401CRAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8352,7 +9110,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '236720CRLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8363,7 +9122,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '516870TRTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8374,7 +9134,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '514730LRVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8385,7 +9146,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8396,7 +9158,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '240211FRLI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8407,7 +9170,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '515131ORMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8418,7 +9182,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '177941SRBZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8429,7 +9194,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '185671NRCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8440,7 +9206,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8451,7 +9218,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '181671JRVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8462,7 +9230,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8473,7 +9242,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '216591WSGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8484,7 +9254,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '216111CSRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8495,7 +9266,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '490621LSBA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8506,7 +9278,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '524481MSCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8517,7 +9290,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8528,7 +9302,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '507720RSDC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8539,7 +9314,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '224540PSAC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8550,7 +9326,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '501360LSMC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8561,7 +9338,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8572,7 +9350,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '170961GSRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8583,7 +9362,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '239251MSSC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8594,7 +9374,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '211541PSSC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8605,7 +9386,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217360JSHD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8616,7 +9398,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208761RSVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8627,7 +9410,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '192280ASPO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8638,7 +9422,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208041HSCU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8649,7 +9434,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '182551SSVJ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8660,7 +9446,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '169761JSQU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8671,7 +9458,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '206521HSIU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8682,7 +9470,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8693,7 +9482,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '208710CSVT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8704,7 +9494,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '175631MSRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8715,7 +9506,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '191900CSIA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8726,7 +9518,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '224340ASSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8737,7 +9530,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220781JSLI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8748,7 +9542,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '234460ASZO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8759,7 +9554,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '227390BSBI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8770,7 +9566,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8781,7 +9578,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '178211GSGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8792,7 +9590,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '236421FSLE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8803,7 +9602,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '194131MTNO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8814,7 +9614,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '231181RTCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8825,7 +9626,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '198261CTPL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8836,7 +9638,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '491311LTRV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8847,7 +9650,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '213031SUDD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8858,7 +9662,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '187371SUCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8869,7 +9674,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530101JUZU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8880,7 +9686,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '511301JVMD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8891,7 +9698,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '168161CVBE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8902,7 +9710,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '227431CVDV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8913,7 +9722,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8924,7 +9734,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '187391JVAL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8935,7 +9746,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '502970CVAL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8946,7 +9758,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '474671FVVG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8957,7 +9770,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527571CVBQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8968,7 +9782,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '160470HVCQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8979,7 +9794,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '508420EVCQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -8990,7 +9806,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9001,7 +9818,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '542041JVRQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9012,7 +9830,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '199281SVSQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9023,7 +9842,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '215350CVVQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9034,7 +9854,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9045,7 +9866,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '206880DVRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9056,7 +9878,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9067,7 +9890,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9078,7 +9902,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '219370EVPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9089,7 +9914,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '210141EVMG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9100,7 +9926,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '187361AVGO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9111,7 +9938,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '206251MVTC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9122,7 +9950,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '508201JVSL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9133,7 +9962,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '201950EVTL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9144,7 +9974,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '202980AWMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9155,7 +9986,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '239361JWKS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9166,7 +9998,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '191201EWLG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9177,7 +10010,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220191AYYR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9188,7 +10022,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '202450MYAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9199,7 +10034,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '173911JYPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9210,7 +10046,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217950AZTR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9221,7 +10058,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '191561MZAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9232,7 +10070,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '481401GZGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9243,7 +10082,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9254,7 +10094,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '221671NZGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9265,7 +10106,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '521261PZLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9276,7 +10118,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '218731LZNA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9287,7 +10130,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229031WZEA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9298,7 +10142,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '203071JJSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9309,7 +10154,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9320,7 +10166,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9331,7 +10178,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '571501RYJ¥',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9342,7 +10190,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '230160MGBZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9353,7 +10202,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '226791YCVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9364,7 +10214,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527061CCAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9375,7 +10226,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9386,7 +10238,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '552841ELLN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9397,7 +10250,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '228210JCAT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9408,7 +10262,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218851EGLZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9419,7 +10274,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '234270AGSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9430,7 +10286,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '538320JVLV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9441,7 +10298,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '219150MGRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9452,7 +10310,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '203030CCHA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9463,7 +10322,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562441MLIA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9474,7 +10334,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '236670OAPI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9485,7 +10346,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '571750AONR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9496,7 +10358,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553761EVMO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9507,7 +10370,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '587820MZMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9518,7 +10382,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '554211CPVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9529,7 +10394,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '585471JCLD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9540,7 +10406,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '522531LQNV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9551,7 +10418,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '211791GAEY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9562,7 +10430,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '233061JBGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9573,7 +10442,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566880CCFA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9584,7 +10454,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9595,7 +10466,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '532571HEGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9606,7 +10478,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '244181DJAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9617,7 +10490,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '181081ACTZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9628,7 +10502,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9639,7 +10514,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '217010AMRT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9650,7 +10526,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527730FMLQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9661,7 +10538,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557780JPLN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9672,7 +10550,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9683,7 +10562,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9694,7 +10574,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9705,7 +10586,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208491PAPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9716,7 +10598,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '508000BCCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9727,7 +10610,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9738,7 +10622,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '563800VASA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9749,7 +10634,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '559171AAAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9760,7 +10646,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '521611LARR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9771,7 +10658,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '142991HDMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9782,7 +10670,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548361MGGL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9793,7 +10682,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562491ZHMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9804,7 +10694,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '245211SJRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9815,7 +10706,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557821CJPE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9826,7 +10718,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '236961RLNN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9837,7 +10730,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549851RMZT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9848,7 +10742,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '226211JMRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9859,7 +10754,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '224050HMPE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9870,7 +10766,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '529341IOEV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9881,7 +10778,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530791JPCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9892,7 +10790,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '538310GPRM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9903,7 +10802,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '246430LTCS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9914,7 +10814,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '245771LVVG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9925,7 +10826,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '539391LARI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9936,7 +10838,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '170241EAAO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9947,7 +10850,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '532761NÑGU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9958,7 +10862,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '202310RASI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9969,7 +10874,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553381FPCO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9980,7 +10886,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '236821FRNR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -9991,7 +10898,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '550421JSVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10002,7 +10910,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10013,7 +10922,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '507281CVDE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10024,7 +10934,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '490460EPAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10035,7 +10946,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '213040ERVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10046,7 +10958,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530950CAJL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10057,7 +10970,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10068,7 +10982,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '493000ZLGN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10079,7 +10994,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '201881EMGD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10090,7 +11006,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '205801JSFT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10101,7 +11018,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '212361HSSV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10112,7 +11030,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '525900AOAY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10123,7 +11042,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '521601GADO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10134,7 +11054,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '213040CCSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10145,7 +11066,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '560111RSJH',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10156,7 +11078,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '578621LJVC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10167,7 +11090,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '573140LLBC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10178,7 +11102,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '515281JZAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10189,7 +11114,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '538071JVSQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10200,7 +11126,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '564520MBGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10211,7 +11138,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '494570GLRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10222,7 +11150,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '577551EPVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10233,7 +11162,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '570891JGGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10244,7 +11174,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '502141NRCS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10255,7 +11186,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10266,7 +11198,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '257000YAHI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10277,7 +11210,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '210271WATI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10288,7 +11222,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '513070LAPG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10299,7 +11234,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '236010JAAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10310,7 +11246,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '239490RATI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10321,7 +11258,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549960LAAB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10332,7 +11270,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '538350MBPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10343,7 +11282,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10354,7 +11294,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '261021JBRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10365,7 +11306,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '259770JBRM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10376,7 +11318,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '224001JBGY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10387,7 +11330,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229530RBRT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10398,7 +11342,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '270161OCTL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10409,7 +11354,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '538131ECCP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10420,7 +11366,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '524560ACPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10431,7 +11378,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '567710RCBT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10442,7 +11390,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '521770SCPT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10453,7 +11402,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '533790ACRT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10464,7 +11414,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '232370RCST',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10475,7 +11426,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '254910ECMV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10486,7 +11438,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '257670ECCQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10497,7 +11450,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '515521PDFI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10508,7 +11462,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '570100TCCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10519,7 +11474,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '524640OESI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10530,7 +11486,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '268970MEBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10541,7 +11498,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '274600RFVU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10552,7 +11510,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '278401RFBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10563,7 +11522,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '506681AFBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10574,7 +11534,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '223971AGEA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10585,7 +11546,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '273700HGPZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10596,7 +11558,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '523311JGBD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10607,7 +11570,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '254520MGBI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10618,7 +11582,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '263640CHGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10629,7 +11594,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '261550DHNM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10640,7 +11606,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '547240LHDT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10651,7 +11618,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '561010LIGS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10662,7 +11630,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242981CJFR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10673,7 +11642,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553211LLGN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10684,7 +11654,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '248330NTGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10695,7 +11666,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '537121FLRN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10706,7 +11678,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '536951WLZE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10717,7 +11690,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '513941SLVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10728,7 +11702,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '253490MMGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10739,7 +11714,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '559090LMAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10750,7 +11726,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '256980MMZI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10761,7 +11738,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '247740TMMD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10772,7 +11750,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '520900DMPC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10783,7 +11762,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10794,7 +11774,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '545371LMGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10805,7 +11786,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551760CMRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10816,7 +11798,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10827,7 +11810,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10838,7 +11822,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10849,7 +11834,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10860,7 +11846,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '567320JPRM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10871,7 +11858,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '264761APBE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10882,7 +11870,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '540030EPLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10893,7 +11882,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '222801GPHE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10904,7 +11894,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10915,7 +11906,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '515271WPCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10926,7 +11918,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '204630MQCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10937,7 +11930,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '211941WQMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10948,7 +11942,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10959,7 +11954,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229341PRGO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10970,7 +11966,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '220892JRZO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10981,7 +11978,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '261300JRRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -10992,7 +11990,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '215791WRSN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11003,7 +12002,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575770NRVC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11014,7 +12014,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '218510IRCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11025,7 +12026,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548530MRCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11036,7 +12038,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '546980RRGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11047,7 +12050,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '258971MRNR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11058,7 +12062,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '206191SRQR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11069,7 +12074,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '564320ERRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11080,7 +12086,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11091,7 +12098,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '257760CRAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11102,7 +12110,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '257190PRSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11113,7 +12122,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '267490RRAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11124,7 +12134,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11135,7 +12146,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '534700SSMC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11146,7 +12158,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '259791JSBT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11157,7 +12170,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '234210YSRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11168,7 +12182,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '225191RTCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11179,7 +12194,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11190,7 +12206,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217001WTBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11201,7 +12218,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '248000SUNI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11212,7 +12230,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '543551AVCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11223,7 +12242,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '236800YVCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11234,7 +12254,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '529760GVMQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11245,7 +12266,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548191EVPQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11256,7 +12278,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '249730SVRQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11267,7 +12290,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '517330FVZA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11278,7 +12302,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '272221MVMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11289,7 +12314,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11300,7 +12326,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '273921JVML',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11311,7 +12338,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '263310SWFS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11322,7 +12350,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '552780CZZA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11333,7 +12362,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '251091CCDT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11344,7 +12374,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '546780YSDU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11355,7 +12386,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572110ZVMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11366,7 +12398,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572821CASL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11377,7 +12410,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '239930ANOI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11388,7 +12422,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '237751CRDC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11399,7 +12434,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '502651MRGJ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11410,7 +12446,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11421,7 +12458,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '540621TFOI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11432,7 +12470,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '555391JRNA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11443,7 +12482,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '240010RCCN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11454,7 +12494,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '202621LLTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11465,7 +12506,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '231381SSSV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11476,7 +12518,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '231301ECAQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11487,7 +12530,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '224960DBHO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11498,7 +12542,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530711EOCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11509,7 +12554,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549460PQMV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11520,7 +12566,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530891LFSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11531,7 +12578,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '255280ICZT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11542,7 +12590,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '241851ESAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11553,7 +12602,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '532130GSCL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11564,7 +12614,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '567900AGRI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11575,7 +12626,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208911LRHR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11586,7 +12638,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '545370CRGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11597,7 +12650,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '543120AAAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11608,7 +12662,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549301JSJD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11619,7 +12674,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11630,7 +12686,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '529620LCSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11641,7 +12698,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562880RHBN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11652,7 +12710,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '564431JCPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11663,7 +12722,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '193180VBTI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11674,7 +12734,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11685,7 +12746,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '518130TVVL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11696,7 +12758,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '497350VGAC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11707,7 +12770,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527870JCMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11718,7 +12782,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '174391SSBI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11729,7 +12794,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '197111FDVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11740,7 +12806,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '234840RTPO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11751,7 +12818,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572691FRRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11762,7 +12830,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11773,7 +12842,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '518481RUVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11784,7 +12854,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '520400DSLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11795,7 +12866,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562590TMZD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11806,7 +12878,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '211001GBSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11817,7 +12890,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '522810NALE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11828,7 +12902,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '581390FZCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11839,7 +12914,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '186511SARN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11850,7 +12926,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '533141WGHR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11861,7 +12938,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '574431JGSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11872,7 +12950,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '513591GAOL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11883,7 +12962,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '226411WGRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11894,7 +12974,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '208111JGII',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11905,7 +12986,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '236631OBPH',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11916,7 +12998,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '517171LBCY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11927,7 +13010,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562631JORN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11938,7 +13022,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '185691JCSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11949,7 +13034,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11960,7 +13046,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '576351EAGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11971,7 +13058,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '537500MLVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11982,7 +13070,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565881SCVF',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -11993,7 +13082,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '591000YFPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12004,7 +13094,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12015,7 +13106,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '585611RVNA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12026,7 +13118,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12037,7 +13130,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12048,7 +13142,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551611JCMZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12059,7 +13154,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551731RCLZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12070,7 +13166,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '545231RGRL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12081,7 +13178,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '540181LLDN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12092,7 +13190,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220951RVTE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12103,7 +13202,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557581HVAT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12114,7 +13214,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549201CVPE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12125,7 +13226,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12136,7 +13238,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '249071HCGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12147,7 +13250,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '555731WZVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12158,7 +13262,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '547630MMGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12169,7 +13274,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '540730AGVV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12180,7 +13286,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12191,7 +13298,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '237150RRMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12202,7 +13310,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '238720DRVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12213,7 +13322,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '241090CVMQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12224,7 +13334,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '468201MMMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12235,7 +13346,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '506960AZEA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12246,7 +13358,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572240HAVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12257,7 +13370,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '588041AYRJ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12268,7 +13382,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '540701JCMT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12279,7 +13394,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '523441MABE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12290,7 +13406,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '579031RNFA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12301,7 +13418,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '538501JMRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12312,7 +13430,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '196311ALCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12323,7 +13442,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '206211CCAT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12334,7 +13454,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548811PAMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12345,7 +13466,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '534231AAHA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12356,7 +13478,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '200391OGPO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12367,7 +13490,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '571391EMTD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12378,7 +13502,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '584510SPTE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12389,7 +13514,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '498741AGMV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12400,7 +13526,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '586541AVAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12411,7 +13538,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '591231DCNV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12422,7 +13550,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '569630MTNJ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12433,7 +13562,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566831JPAS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12444,7 +13574,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '561210NCGD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12455,7 +13586,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12466,7 +13598,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527860FSRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12477,7 +13610,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565821RSTC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12488,7 +13622,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562311JGVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12499,7 +13634,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218630GBJR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12510,7 +13646,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '267290LRMR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12521,7 +13658,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '544411VNZA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12532,7 +13670,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12543,7 +13682,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '569561SSSD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12554,7 +13694,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '534691EARN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12565,7 +13706,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '230521SRRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12576,7 +13718,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '237670AMND',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12587,7 +13730,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '576540GNUV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12598,7 +13742,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242381LSRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12609,7 +13754,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '249830GDPG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12620,7 +13766,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '217951VACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12631,7 +13778,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572591RBSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12642,7 +13790,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '542820GSMQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12653,7 +13802,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '240660LCRP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12664,7 +13814,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12675,7 +13826,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '561600EPAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12686,7 +13838,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '558001FGIR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12697,7 +13850,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12708,7 +13862,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12719,7 +13874,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12730,7 +13886,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '584351MVSQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12741,7 +13898,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '526860CLCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12752,7 +13910,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '574811ADCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12763,7 +13922,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '588461JLGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12774,7 +13934,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12785,7 +13946,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '233451RCPD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12796,7 +13958,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12807,7 +13970,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '556741DMCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12818,7 +13982,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12829,7 +13994,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12840,7 +14006,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '256671DBCC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12851,7 +14018,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12862,7 +14030,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12873,7 +14042,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12884,7 +14054,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12895,7 +14066,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '538671JBCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12906,7 +14078,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '233080SBGG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12917,7 +14090,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12928,7 +14102,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '537800AEEE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12939,7 +14114,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '564420MMSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12950,7 +14126,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12961,7 +14138,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '511730GARY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12972,7 +14150,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '542880EVCL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12983,7 +14162,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218600MCMT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -12994,7 +14174,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '563080GGPC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13005,7 +14186,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '508011WGBB',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13016,7 +14198,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548680LNLV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13027,7 +14210,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '584161MLGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13038,7 +14222,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557881CCPZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13049,7 +14234,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527010MVCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13060,7 +14246,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553721MLDN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13071,7 +14258,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557910PFTU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13082,7 +14270,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13093,7 +14282,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575731EGRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13104,7 +14294,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '531650RGML',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13115,7 +14306,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '555220IFLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13126,7 +14318,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580690JZDA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13137,7 +14330,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '560640HCCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13148,7 +14342,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530120VSRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13159,7 +14354,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562911MGGC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13170,7 +14366,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '569190MGGI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13181,7 +14378,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '563971CPBS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13192,7 +14390,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '547110RAZI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13203,7 +14402,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548711DTAJ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13214,7 +14414,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566281OGMV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13225,7 +14426,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220641LCRM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13236,7 +14438,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13247,7 +14450,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '543310SSVV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13258,7 +14462,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553801EVAG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13269,7 +14474,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13280,7 +14486,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '535281JLMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13291,7 +14498,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '227521CCAN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13302,7 +14510,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '265121LGAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13313,7 +14522,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '555491EPVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13324,7 +14534,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580161FPCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13335,7 +14546,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '576940AEVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13346,7 +14558,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527371ACCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13357,7 +14570,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '530470DMVD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13368,7 +14582,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '573590YFPN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13379,7 +14594,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '589400EGTV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13390,7 +14606,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '577960DBGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13401,7 +14618,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '571600DCBP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13412,7 +14630,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '556640RHPM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13423,7 +14642,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '555091JVVL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13434,7 +14654,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565691WVAO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13445,7 +14666,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '568901DRRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13456,7 +14678,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '541610KVOD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13467,7 +14690,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '546611LCVV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13478,7 +14702,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '592751FCCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13489,7 +14714,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '570800SVSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13500,7 +14726,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '555110PSFT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13511,7 +14738,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13522,7 +14750,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566381JDCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13533,7 +14762,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '533891JPVE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13544,7 +14774,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13555,7 +14786,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13566,7 +14798,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '585571JVVI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13577,7 +14810,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '535050SMGT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13588,7 +14822,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '508120GVGL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13599,7 +14834,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '588691JMTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13610,7 +14846,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13621,7 +14858,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '568191LLBA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13632,7 +14870,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '500781JMRT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13643,7 +14882,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '564061CHAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13654,7 +14894,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '547421WRP¥',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13665,7 +14906,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551471AAJI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13676,7 +14918,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '567870MZLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13687,7 +14930,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557820LBZT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13698,7 +14942,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '188781AAAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13709,7 +14954,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '536361DJQL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13720,7 +14966,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549201LRJI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13731,7 +14978,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '587521JSGC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13742,7 +14990,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '545401PEPU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13753,7 +15002,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572880MSVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13764,7 +15014,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13775,7 +15026,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '236530FMCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13786,7 +15038,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '228081RRPG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13797,7 +15050,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '245300HJLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13808,7 +15062,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '477631LALA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13819,7 +15074,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13830,7 +15086,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '563021CCCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13841,7 +15098,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '265091AMSD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13852,7 +15110,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '593161PHJA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13863,7 +15122,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572261FBRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13874,7 +15134,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548660JRSI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13885,7 +15146,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '544351JRMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13896,7 +15158,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '218071EACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13907,7 +15170,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13918,7 +15182,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '543771WGPI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13929,7 +15194,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '563091FEMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13940,7 +15206,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '488121FGRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13951,7 +15218,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13962,7 +15230,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '221591LRCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13973,7 +15242,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '578081CAUL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13984,7 +15254,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217821WMBT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -13995,7 +15266,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575771JLTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14006,7 +15278,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '517000LALY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14017,7 +15290,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14028,7 +15302,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '509321NESI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14039,7 +15314,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '191931LFER',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14050,7 +15326,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553301OSRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14061,7 +15338,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242461VSRC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14072,7 +15350,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '560550ICFZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14083,7 +15362,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242950PCLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14094,7 +15374,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14105,7 +15386,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '509810HGAI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14116,7 +15398,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '574120GZEA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14127,7 +15410,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566820FSMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14138,7 +15422,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '531621JVDQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14149,7 +15434,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '550461JCCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14160,7 +15446,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '550561SRVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14171,7 +15458,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '605801JPLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14182,7 +15470,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '239370CMTI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14193,7 +15482,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '547020EVOA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14204,7 +15494,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '583181MGYO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14215,7 +15506,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '604471JSCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14226,7 +15518,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '612700MCMD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14237,7 +15530,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '585471JCFP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14248,7 +15542,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '239431MQSP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14259,7 +15554,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565021DRMH',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14270,7 +15566,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14281,7 +15578,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '568830MBCD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14292,7 +15590,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14303,7 +15602,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14314,7 +15614,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14325,7 +15626,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14336,7 +15638,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '523500MASI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14347,7 +15650,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '610920FRHL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14358,7 +15662,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14369,7 +15674,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14380,7 +15686,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14391,7 +15698,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562200GCCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14402,7 +15710,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575801DBUT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14413,7 +15722,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '581631NMGO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14424,7 +15734,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '555051MQAZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14435,7 +15746,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14446,7 +15758,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '326791LMTC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14457,7 +15770,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '601020LGEI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14468,7 +15782,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553241EHAO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14479,7 +15794,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '574911CPMS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14490,7 +15806,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553341GCAO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14501,7 +15818,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '581980PNPV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14512,7 +15830,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '199220BRTE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14523,7 +15842,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14534,7 +15854,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551380GC¥E',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14545,7 +15866,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '583311FHBT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14556,7 +15878,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14567,7 +15890,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575151JDPZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14578,7 +15902,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14589,7 +15914,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '329201MQCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14600,7 +15926,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '529261SQLZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14611,7 +15938,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '581641RPTE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14622,7 +15950,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14633,7 +15962,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '577251PAHV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14644,7 +15974,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '567241JCOD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14655,7 +15986,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '628371PAHA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14666,7 +15998,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '312181CCCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14677,7 +16010,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '589811EMOD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14688,7 +16022,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14699,7 +16034,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '587401JVQL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14710,7 +16046,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '597311MCTR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14721,7 +16058,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '615761JGTZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14732,7 +16070,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '222871JVSG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14743,7 +16082,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565531JSHR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14754,7 +16094,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '600391WAM¥',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14765,7 +16106,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14776,7 +16118,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14787,7 +16130,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '603200PTPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14798,7 +16142,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '600511FGEE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14809,7 +16154,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '623340KZGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14820,7 +16166,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '576491CCAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14831,7 +16178,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '570261ACCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14842,7 +16190,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '596121RRAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14853,7 +16202,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575820DTPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14864,7 +16214,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '567591HMYQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14875,7 +16226,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14886,7 +16238,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '596033CPLE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14897,7 +16250,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '588481MAAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14908,7 +16262,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14919,7 +16274,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '331031EARO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14930,7 +16286,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '568550SC¥A',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14941,7 +16298,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '589891YLCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14952,7 +16310,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '552191RAHA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14963,7 +16322,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14974,7 +16334,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557831JICN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14985,7 +16346,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '320960CAVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -14996,7 +16358,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '235171PBZG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15007,7 +16370,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '604541SLVE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15018,7 +16382,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15029,7 +16394,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '545811CCVD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15040,7 +16406,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '581560lavi',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15051,7 +16418,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15062,7 +16430,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15073,7 +16442,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '593961CPQA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15084,7 +16454,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '614501JBVN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15095,7 +16466,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '229590RMCD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15106,7 +16478,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '186631LGAZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15117,7 +16490,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '226911JRCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15128,7 +16502,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553490JMRL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15139,7 +16514,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15150,7 +16526,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '543690SOCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15161,7 +16538,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '217091MTAS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15172,7 +16550,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '233001VLNA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15183,7 +16562,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '556301JOYR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15194,7 +16574,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '209821GMOD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15205,7 +16586,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '609920OMLD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15216,7 +16598,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '568041MOCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15227,7 +16610,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '533571IVRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15238,7 +16622,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15249,7 +16634,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '568971MSTC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15260,7 +16646,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '573261NVMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15271,7 +16658,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '533900MRAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15282,7 +16670,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '243610RCMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15293,7 +16682,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15304,7 +16694,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '586870MCSL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15315,7 +16706,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '219101WGCC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15326,7 +16718,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15337,7 +16730,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15348,7 +16742,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '574601CLTN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15359,7 +16754,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '577531GBVP',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15370,7 +16766,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15381,7 +16778,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '610941EMCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15392,7 +16790,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15403,7 +16802,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '550151GRSE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15414,7 +16814,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '539251JCVQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15425,7 +16826,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '605990CCLM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15436,7 +16838,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15447,7 +16850,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15458,7 +16862,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15469,7 +16874,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '501260MALA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15480,7 +16886,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '619140CSCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15491,7 +16898,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565290SRSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15502,7 +16910,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562010PMCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15513,7 +16922,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15524,7 +16934,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562791WCVC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15535,7 +16946,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '586421RADO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15546,7 +16958,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572161CMCG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15557,7 +16970,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15568,7 +16982,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15579,7 +16994,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '548291DAGN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15590,7 +17006,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15601,7 +17018,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '593610JRIA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15612,7 +17030,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '612670ARGE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15623,7 +17042,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '623801VVTL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15634,7 +17054,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '593161ARBR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15645,7 +17066,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '587401EHQR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15656,7 +17078,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575630RASI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15667,7 +17090,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '542000RBVY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15678,7 +17102,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '241651OPCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15689,7 +17114,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '579451FPCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15700,7 +17126,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15711,7 +17138,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '583881AGER',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15722,7 +17150,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '559381CQST',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15733,7 +17162,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15744,7 +17174,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15755,7 +17186,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '588050SMNA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15766,7 +17198,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15777,7 +17210,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '248820LMMD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15788,7 +17222,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '585902DMVT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15799,7 +17234,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '574891WJCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15810,7 +17246,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '553381LCFT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15821,7 +17258,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '586410ELTC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15832,7 +17270,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '527991VACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15843,7 +17282,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '328211EAAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15854,7 +17294,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15865,7 +17306,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15876,7 +17318,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '512070YACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15887,7 +17330,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '210670NARE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15898,7 +17342,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '213920MBGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15909,7 +17354,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566091CBOD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15920,7 +17366,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '595601JBSG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15931,7 +17378,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '539320EBCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15942,7 +17390,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15953,7 +17402,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '590930MCLR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15964,7 +17414,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '262751ADAZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15975,7 +17426,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '613391LGDA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15986,7 +17438,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '604860TGCC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -15997,7 +17450,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '573981DGMI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16008,7 +17462,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '600590SLLN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16019,7 +17474,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '597291MLCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16030,7 +17486,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16041,7 +17498,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '577141MMLT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16052,7 +17510,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '579001JPTH',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16063,7 +17522,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '536980MPCE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16074,7 +17534,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '579840JQCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16085,7 +17546,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '598351GQDS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16096,7 +17558,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '320820CRNS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16107,7 +17570,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16118,7 +17582,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580610MRBA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16129,7 +17594,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '604630SRPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16140,7 +17606,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16151,7 +17618,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '514171CVVD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16162,7 +17630,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '599691MVAV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16173,7 +17642,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '584851RVCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16184,7 +17654,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '586510CVMV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16195,7 +17666,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '546540HVML',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16206,7 +17678,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16217,7 +17690,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16228,7 +17702,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16239,7 +17714,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '558280SOGO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16250,7 +17726,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '536881JACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16261,7 +17738,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '584090GRVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16272,7 +17750,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '570631ERTE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16283,7 +17762,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16294,7 +17774,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '586661MLVO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16305,7 +17786,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16316,7 +17798,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '323971JSGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16327,7 +17810,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '596570MMHI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16338,7 +17822,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '536420MRSR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16349,7 +17834,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16360,7 +17846,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '555220IFLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16371,7 +17858,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16382,7 +17870,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '0',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16393,7 +17882,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '533211S¥RU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16404,7 +17894,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '208241A¥ST',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16415,7 +17906,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '221061RAAN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16426,7 +17918,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '198641TATV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16437,7 +17930,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16448,7 +17942,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '200441WACI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16459,7 +17954,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '212311CAQI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16470,7 +17966,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '479611SAGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16481,7 +17978,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '488421WAGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16492,7 +17990,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '203571JAPY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16503,7 +18002,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '488571VAAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16514,7 +18014,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16525,7 +18026,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16536,7 +18038,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16547,7 +18050,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16558,7 +18062,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '513600HCGV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16569,7 +18074,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16580,7 +18086,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16591,7 +18098,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16602,7 +18110,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '202960VMGD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16613,7 +18122,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16624,7 +18134,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16635,7 +18146,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16646,7 +18158,8 @@ module.exports = {
         regimen_laboral_id: null,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16657,7 +18170,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '198330BVUE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16668,7 +18182,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '248901JVAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16679,7 +18194,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16690,7 +18206,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '478931RVVA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16701,7 +18218,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: '200801EVMG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16712,7 +18230,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '498910CRPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16723,7 +18242,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '228060FRRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16734,7 +18254,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16745,7 +18266,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16756,7 +18278,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '244100JSLC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16767,7 +18290,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: '181941RGGM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16778,7 +18302,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '251731JADI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16789,7 +18314,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16800,7 +18326,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '541271MMBT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16811,7 +18338,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '169771RMGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16822,7 +18350,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '588201GLLA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16833,7 +18362,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16844,7 +18374,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '601190NLRE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16855,7 +18386,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16866,7 +18398,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16877,7 +18410,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '534461AQDN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16888,7 +18422,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '575471JAHS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16899,7 +18434,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '542741JOTI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16910,7 +18446,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549601LODE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16921,7 +18458,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557861CMTI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16932,7 +18470,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '573541RPYS',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16943,7 +18482,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551861PRPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16954,7 +18494,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: null,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16965,7 +18506,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549631JTDR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16976,7 +18518,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '193651MCGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16987,7 +18530,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '220310HLRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -16998,7 +18542,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566530EACI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17009,7 +18554,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '583891JVGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17020,7 +18566,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17031,7 +18578,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '594360JSMV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17042,7 +18590,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17053,7 +18602,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '254021JMST',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17064,7 +18614,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '574290DVRU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17075,7 +18626,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '567771JGMZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17086,7 +18638,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '535151FVPQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17097,7 +18650,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565281HCAV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17108,7 +18662,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '569341RGRV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17119,7 +18674,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '576771AGME',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17130,7 +18686,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '254171RMRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17141,7 +18698,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17152,7 +18710,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17163,7 +18722,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17174,7 +18734,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580341SOMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17185,7 +18746,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '590991IVAQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17196,7 +18758,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '571750MCRD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17207,7 +18770,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '558950YGDE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17218,7 +18782,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580541ERER',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17229,7 +18794,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17240,7 +18806,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551450TCRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17251,7 +18818,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566170RRCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17262,7 +18830,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '534110ACCT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17273,7 +18842,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '524191CVJQ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17284,7 +18854,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17295,7 +18866,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '576451SPCA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17306,7 +18878,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '587560LPMZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17317,7 +18890,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '577110CCVV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17328,7 +18902,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17339,7 +18914,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17350,7 +18926,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17361,7 +18938,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17372,7 +18950,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17383,7 +18962,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '569170RDGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17394,7 +18974,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '239770LCHR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17405,7 +18986,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17416,7 +18998,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17427,7 +19010,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17438,7 +19022,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580140SKBA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17449,7 +19034,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566670GRGR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17460,7 +19046,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17471,7 +19058,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '539081RDVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17482,7 +19070,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '268040RHVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17493,7 +19082,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '579230MMGA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17504,7 +19094,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '542060DAPA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17515,7 +19106,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17526,7 +19118,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17537,7 +19130,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17548,7 +19142,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17559,7 +19154,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17570,7 +19166,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17581,7 +19178,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17592,7 +19190,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17603,7 +19202,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17614,7 +19214,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17625,7 +19226,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565500RCRR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17636,7 +19238,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17647,7 +19250,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '572061HLAG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17658,7 +19262,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '256811SRAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17669,7 +19274,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '533681MRAA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17680,7 +19286,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '573471ACSZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17691,7 +19298,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '544841FGRL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17702,7 +19310,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17713,7 +19322,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565620KCAU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17724,7 +19334,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '230611FGOA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17735,7 +19346,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17746,7 +19358,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17757,7 +19370,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '590030KGCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17768,7 +19382,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '562030NLSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17779,7 +19394,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17790,7 +19406,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17801,7 +19418,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17812,7 +19430,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17823,7 +19442,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17834,7 +19454,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '599331EGCI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17845,7 +19466,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17856,7 +19478,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '543150PLAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17867,7 +19490,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17878,7 +19502,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '263781LCVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17889,7 +19514,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17900,7 +19526,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '233600ECGV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17911,7 +19538,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17922,7 +19550,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '586230FEMN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17933,7 +19562,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '597051LABI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17944,7 +19574,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17955,7 +19586,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580210SQGZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17966,7 +19598,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '582371CHJO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17977,7 +19610,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '568031OAMA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17988,7 +19622,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '601981FACN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -17999,7 +19634,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18010,7 +19646,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '250710TNMU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18021,7 +19658,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '535821ECPT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18032,7 +19670,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18043,7 +19682,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '581361MACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18054,7 +19694,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '541771NSVZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18065,7 +19706,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '576761JPJE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18076,7 +19718,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '232360VDCZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18087,7 +19730,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '242881VBMG',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18098,7 +19742,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18109,7 +19754,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '585890EAUI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18120,7 +19766,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '608210KPVT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18131,7 +19778,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '552581ENAE',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18142,7 +19790,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '581511JCPN',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18153,7 +19802,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '549041LGVR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18164,7 +19814,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '571901TCUV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18175,7 +19826,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565720RATA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18186,7 +19838,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '580550LTRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18197,7 +19850,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '327471EMRZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18208,7 +19862,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '209411AGVD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18219,7 +19874,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18230,7 +19886,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '551911JPBO',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18241,7 +19898,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '565891MKLZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18252,7 +19910,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '534130DCBV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18263,7 +19922,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18274,7 +19934,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '578510ACMD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18285,7 +19946,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18296,7 +19958,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '492381JZBA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18307,7 +19970,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '603350MRKR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18318,7 +19982,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '570911VBSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18329,7 +19994,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '601611FCOZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18340,7 +20006,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '590390LGSC',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18351,7 +20018,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18362,7 +20030,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '557221HSTD',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18373,7 +20042,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '620901DACA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18384,7 +20054,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '547711MACY',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18395,7 +20066,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18406,7 +20078,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '589091WGAM',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18417,7 +20090,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '615991GRUI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18428,7 +20102,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '566070EDHZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18439,7 +20114,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '318281fclt',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18450,7 +20126,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '327561FDPZ',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18461,7 +20138,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18472,7 +20150,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '590660CVQL',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18483,7 +20162,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '629391FLCV',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18494,7 +20174,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18505,7 +20186,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18516,7 +20198,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 1,
         cuspp: '583261AHHR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18527,7 +20210,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18538,7 +20222,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '593770FMLT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18549,7 +20234,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '610440MGFI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18560,7 +20246,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '336880ZIRA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18571,7 +20258,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18582,7 +20270,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '604981PCLT',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18593,7 +20282,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18604,7 +20294,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '557971CFDR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18615,7 +20306,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '508630RCPR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18626,7 +20318,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '620611GRRU',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18637,7 +20330,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '626880RRNI',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18648,7 +20342,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '330041NCCR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18659,7 +20354,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18670,7 +20366,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '597231JTAR',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18681,7 +20378,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '586350LCTA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18692,7 +20390,8 @@ module.exports = {
         regimen_laboral_id: 2,
         regimen_pensionario_id: 1,
         cuspp: '324920DZSA',
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18703,7 +20402,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
       {
@@ -18714,7 +20414,8 @@ module.exports = {
         regimen_laboral_id: 5,
         regimen_pensionario_id: 3,
         cuspp: null,
-        fecha: '2024-11',
+        anio: '2024',
+        mes: '11',
         estado_laboral_id: 1,
       },
     ];

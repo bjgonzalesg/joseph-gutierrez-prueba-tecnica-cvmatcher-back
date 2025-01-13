@@ -290,7 +290,7 @@ module.exports = {
         },
 
         fecha_ingreso: {
-          type: Sequelize.DataTypes.DATE,
+          type: Sequelize.DataTypes.DATEONLY,
           allowNull: false,
         },
 
@@ -322,8 +322,13 @@ module.exports = {
           },
         },
 
-        fecha: {
-          type: Sequelize.DataTypes.STRING,
+        anio: {
+          type: Sequelize.DataTypes.STRING(4),
+          allowNull: false,
+        },
+
+        mes: {
+          type: Sequelize.DataTypes.STRING(2),
           allowNull: false,
         },
 
@@ -488,7 +493,6 @@ module.exports = {
         codigo: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
-          unique: true,
         },
 
         nombre: {
