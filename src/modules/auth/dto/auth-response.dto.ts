@@ -1,9 +1,9 @@
-import { UserDB } from '@/modules/users/dto';
 import { ApiProperty } from '@nestjs/swagger';
+import { UserAuthDto } from './user-auth.dto';
 
 export class AuthResponseDto {
-  @ApiProperty({ type: UserDB })
-  user: UserDB;
+  @ApiProperty({ type: UserAuthDto })
+  user: UserAuthDto;
 
   @ApiProperty()
   token: string;

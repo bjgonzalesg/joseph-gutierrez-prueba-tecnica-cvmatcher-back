@@ -16,7 +16,7 @@ module.exports = {
     );
   },
 
-  async down(queryInterface, Sequelize) {
+  async down(queryInterface) {
     const schema = 'sistemas';
 
     await queryInterface.bulkDelete(

@@ -1,4 +1,4 @@
-import { Person } from '@/modules/people/entities';
+import { Person } from '@/modules/people/entities/person.entity';
 import { Role } from '@/modules/roles';
 import { ApiProperty } from '@nestjs/swagger';
 import {
@@ -12,7 +12,7 @@ import {
 
 @Table({
   schema: 'sistemas',
-  tableName: 'users',
+  tableName: 'usuarios',
   timestamps: true,
   paranoid: true,
 })
@@ -48,7 +48,7 @@ export class User extends Model<User> {
     allowNull: false,
     unique: true,
   })
-  person_id: number;
+  persona_id: number;
 
   @ApiProperty()
   @ForeignKey(() => Role)
@@ -56,7 +56,7 @@ export class User extends Model<User> {
     type: DataType.INTEGER,
     allowNull: false,
   })
-  role_id: number;
+  rol_id: number;
 
   @BelongsTo(() => Person)
   person: Person;

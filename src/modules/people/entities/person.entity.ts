@@ -1,9 +1,18 @@
-import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
-import { Column, DataType, Model, Table } from 'sequelize-typescript';
+import { DocumentType } from '@/modules/document-type/document-type.entity';
+import { ApiProperty } from '@nestjs/swagger';
+import {
+  BelongsTo,
+  Column,
+  DataType,
+  ForeignKey,
+  Model,
+  Table,
+} from 'sequelize-typescript';
 
 @Table({
   schema: 'sistemas',
   tableName: 'personas',
+  timestamps: true,
   paranoid: true,
 })
 export class Person extends Model<Person> {
@@ -20,14 +29,29 @@ export class Person extends Model<Person> {
     type: DataType.STRING,
     allowNull: false,
   })
-  surnames: string;
+  apellido_paterno: string;
 
   @ApiProperty()
   @Column({
     type: DataType.STRING,
     allowNull: false,
   })
-  names: string;
+  apellido_materno: string;
+
+  @ApiProperty()
+  @Column({
+    type: DataType.STRING,
+    allowNull: false,
+  })
+  nombres: string;
+
+  @ApiProperty()
+  @ForeignKey(() => DocumentType)
+  @Column({
+    type: DataType.INTEGER,
+    allowNull: false,
+  })
+  documento_tipo_id: number;
 
   @ApiProperty()
   @Column({
@@ -35,35 +59,8 @@ export class Person extends Model<Person> {
     allowNull: false,
     unique: true,
   })
-  document: string;
+  documento: string;
 
-  @ApiPropertyOptional()
-  @Column({
-    type: DataType.STRING,
-  })
-  nacionality?: string;
-
-  @ApiPropertyOptional()
-  @Column({
-    type: DataType.STRING,
-  })
-  telephone?: string;
-
-  @ApiPropertyOptional()
-  @Column({
-    type: DataType.STRING,
-  })
-  gender?: string;
-
-  @ApiPropertyOptional()
-  @Column({
-    type: DataType.DATE,
-  })
-  date?: Date;
-
-  @ApiPropertyOptional()
-  @Column({
-    type: DataType.STRING,
-  })
-  address?: string;
+  @BelongsTo(() => DocumentType)
+  documento_tipo: DocumentType;
 }

@@ -1,6 +1,6 @@
 import { ApiProperty } from '@nestjs/swagger';
 
-export class UserDB {
+export class UserAuthDto {
   @ApiProperty()
   id: number;
 
@@ -8,19 +8,16 @@ export class UserDB {
   username: string;
 
   @ApiProperty()
-  names: string;
-
-  @ApiProperty()
   surnames: string;
 
   @ApiProperty()
-  document: string;
+  names: string;
 
   @ApiProperty()
   role: string;
 
   @ApiProperty()
-  pages: string[];
+  allowedPaths: string[];
 
   @ApiProperty()
   status: boolean;

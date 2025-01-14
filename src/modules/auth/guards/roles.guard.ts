@@ -14,7 +14,7 @@ import { Reflector } from '@nestjs/core';
 import { Request } from 'express';
 import { Observable } from 'rxjs';
 import { ERoles } from '../enums';
-import { IPayload } from '../interfaces';
+import { Payload } from '../interfaces';
 
 @Injectable()
 export class RolesGuard implements CanActivate {
@@ -40,7 +40,7 @@ export class RolesGuard implements CanActivate {
       throw new UnauthorizedException(USER_NOT_AUTHORIZED_MESSAGE);
 
     // *GET USER
-    const user = req.user as IPayload;
+    const user = req.user as Payload;
 
     // *CHECK ROLE
     const validRole = requiredRole.some((role) => user.role === role);

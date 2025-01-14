@@ -4,13 +4,13 @@ import {
   USER_NOT_AUTHORIZED_MESSAGE,
   USER_REPOSITORY,
 } from '@/core/constants';
-import { UserDB } from '@/modules/users/dto';
 import { User } from '@/modules/users/entities';
 import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { PassportStrategy } from '@nestjs/passport';
 import { ExtractJwt, Strategy } from 'passport-jwt';
 import { QueryTypes } from 'sequelize';
-import { IPayload } from '../interfaces';
+import { UserAuthDto } from '../dto';
+import { Payload } from '../interfaces';
 
 @Injectable()
 export class JwtStrategy extends PassportStrategy(Strategy) {
@@ -24,7 +24,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
     });
   }
 
-  async validate(payload: IPayload): Promise<UserDB> {
+  async validate(payload: Payload): Promise<UserAuthDto> {
     const { username } = payload;
 
     const [user] = (await this.userRepository.sequelize.query(
@@ -33,7 +33,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
         type: QueryTypes.SELECT,
         replacements: [username],
       },
-    )) as [UserDB];
+    )) as [UserAuthDto];
 
     if (!user) throw new UnauthorizedException(ROLE_NOT_AUTHORIZED_MESSAGE);
 

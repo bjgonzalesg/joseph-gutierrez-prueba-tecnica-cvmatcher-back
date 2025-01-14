@@ -17,12 +17,12 @@ export class CreateUserDto {
   @Type(() => Number)
   @IsInt()
   @IsPositive()
-  person_id: number;
+  persona_id: number;
 
   @ApiProperty()
   @IsNotEmpty()
   @Type(() => Number)
   @IsInt()
   @IsPositive()
-  role_id: number;
+  rol_id: number;
 }

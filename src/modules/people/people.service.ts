@@ -1,42 +1,35 @@
-import {
-  DOCUMENT_ALREADY_EXISTS_MESSAGE,
-  PERSON_REPOSITORY,
-} from '@/core/constants';
-import { BadRequestException, Inject, Injectable } from '@nestjs/common';
-import { UserDB } from '../users/dto';
-import { CreatePersonDto, UpdatePersonDto } from './dto';
-import { Person } from './entities';
+import { PERSON_REPOSITORY } from '@/core/constants';
+import { Inject, Injectable } from '@nestjs/common';
+import { CreatePersonDto } from './dto/create-person.dto';
+import { UpdatePersonDto } from './dto/update-person.dto';
+import { Person } from './entities/person.entity';
 
 @Injectable()
 export class PeopleService {
   constructor(
-    @Inject(PERSON_REPOSITORY) private readonly personRepository: typeof Person,
+    @Inject(PERSON_REPOSITORY)
+    private readonly personRepository: typeof Person,
   ) {}
 
-  async create(createPersonDto: CreatePersonDto): Promise<Person> {
-    const { document } = createPersonDto;
-
-    const verifyDocument = await this.verifyDocument(document);
-
-    if (verifyDocument)
-      throw new BadRequestException(DOCUMENT_ALREADY_EXISTS_MESSAGE);
-
-    return await this.personRepository.create(createPersonDto);
+  create(createPersonDto: CreatePersonDto) {
+    return 'This action adds a new person';
   }
 
-  async update(
-    user: UserDB,
-    updatePersonDto: UpdatePersonDto,
-  ): Promise<Person> {
-    const { document } = user;
-
-    const person = await this.personRepository.findOne({ where: { document } });
-
-    return await person.update(updatePersonDto);
+  findAll() {
+    return `This action returns all people`;
   }
 
-  private async verifyDocument(document: string): Promise<boolean> {
-    const person = await this.personRepository.findOne({ where: { document } });
-    return person ? true : false;
+  update(id: number, updatePersonDto: UpdatePersonDto) {
+    return `This action updates a #${id} person`;
+  }
+
+  async changeStatus(id: number): Promise<void> {
+    const person = await this.personRepository.findOne({
+      where: { id: id },
+      paranoid: false,
+    });
+
+    if (person.deletedAt) await person.restore();
+    else await person.destroy();
   }
 }

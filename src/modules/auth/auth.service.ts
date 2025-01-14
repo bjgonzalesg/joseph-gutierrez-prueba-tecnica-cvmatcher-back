@@ -3,15 +3,19 @@ import {
   USER_ALREADY_EXISTS_MESSAGE,
   USER_REPOSITORY,
 } from '@/core/constants';
-import { CreateUserDto, UserDB } from '@/modules/users/dto';
+import { CreateUserDto } from '@/modules/users/dto';
 import { User } from '@/modules/users/entities';
 import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';
 import { QueryTypes } from 'sequelize';
-import { ChangePasswordDto } from '../dto';
-import { LoginDto } from '../dto/login.dto';
-import { IPayload } from '../interfaces/payload.interface';
+import {
+  AuthResponseDto,
+  ChangePasswordDto,
+  LoginDto,
+  UserAuthDto,
+} from './dto';
+import { Payload } from './interfaces';
 
 @Injectable()
 export class AuthService {
@@ -20,7 +24,7 @@ export class AuthService {
     private readonly jwtService: JwtService,
   ) {}
 
-  async login(user: UserDB) {
+  login(user: UserAuthDto): AuthResponseDto {
     const token = this.generateToken({
       id: user.id,
       username: user.username,
@@ -30,8 +34,8 @@ export class AuthService {
     return { user, token };
   }
 
-  async singUp(createUserDto: CreateUserDto): Promise<UserDB> {
-    const { username, password, person_id, role_id } = createUserDto;
+  async singUp(createUserDto: CreateUserDto): Promise<UserAuthDto> {
+    const { username, password, persona_id, rol_id } = createUserDto;
 
     const verifyUser = await this.findOneUser(username);
 
@@ -41,17 +45,17 @@ export class AuthService {
     await this.userRepository.create({
       username,
       password: this.hashPassword(password),
-      person_id,
-      role_id,
+      persona_id,
+      rol_id,
     });
 
-    const userDB = await this.findOneUserByUsername(username);
+    const UserAuthDto = await this.findOneUserByUsername(username);
 
-    return userDB;
+    return UserAuthDto;
   }
 
   async changePassword(
-    user: UserDB,
+    user: Payload,
     changePasswordDto: ChangePasswordDto,
   ): Promise<void> {
     const { current_password, new_password } = changePasswordDto;
@@ -66,7 +70,7 @@ export class AuthService {
   }
 
   //* Local Strategy (login)
-  async validateUser(loginDto: LoginDto): Promise<UserDB> {
+  async validateUser(loginDto: LoginDto): Promise<UserAuthDto> {
     const { username } = loginDto;
 
     const user = await this.findOneUser(username);
@@ -88,19 +92,19 @@ export class AuthService {
     return user;
   }
 
-  private async findOneUserByUsername(username: string): Promise<UserDB> {
+  private async findOneUserByUsername(username: string): Promise<UserAuthDto> {
     const [user] = (await this.userRepository.sequelize.query(
-      'SELECT * FROM sistemas.fn_get_user_by_username(?)',
+      'SELECT * FROM sistemas.fn_get_usuario_por_username(?)',
       {
         type: QueryTypes.SELECT,
         replacements: [username],
       },
-    )) as [UserDB];
+    )) as [UserAuthDto];
 
     return user;
   }
 
-  private generateToken(payload: IPayload): string {
+  private generateToken(payload: Payload): string {
     const token = this.jwtService.sign(payload);
     return token;
   }

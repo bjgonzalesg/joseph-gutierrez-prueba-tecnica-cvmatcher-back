@@ -1,11 +1,9 @@
 import { EApiMethods, EApiRoutes } from '@/common/enums';
-import { Body, Controller, Patch, Post } from '@nestjs/common';
-import { ApiCreatedResponse, ApiOkResponse, ApiTags } from '@nestjs/swagger';
-import { Auth, GetUser } from 'src/modules/auth/decorators';
-import { ERoles } from 'src/modules/auth/enums';
-import { UserDB } from '../users/dto';
-import { CreatePersonDto, UpdatePersonDto } from './dto';
-import { Person } from './entities/person.entity';
+import { ParseIdPipe } from '@/common/pipes/parse-id.pipe';
+import { Body, Controller, Get, Param, Patch, Post } from '@nestjs/common';
+import { ApiTags } from '@nestjs/swagger';
+import { CreatePersonDto } from './dto/create-person.dto';
+import { UpdatePersonDto } from './dto/update-person.dto';
 import { PeopleService } from './people.service';
 
 @Controller(EApiRoutes.PEOPLE)
@@ -14,16 +12,22 @@ export class PeopleController {
   constructor(private readonly peopleService: PeopleService) {}
 
   @Post(EApiMethods.CREATE)
-  @ApiCreatedResponse({ type: Person })
-  @Auth(ERoles.ADMIN)
   create(@Body() createPersonDto: CreatePersonDto) {
     return this.peopleService.create(createPersonDto);
   }
 
+  @Get(EApiMethods.FIND_ALL_BY_FILTER_PAGINATED)
+  findAll() {
+    return this.peopleService.findAll();
+  }
+
   @Patch(EApiMethods.UPDATE)
-  @Auth()
-  @ApiOkResponse({ type: Person })
-  update(@GetUser() user: UserDB, @Body() updatePersonDto: UpdatePersonDto) {
-    return this.peopleService.update(user, updatePersonDto);
+  update(@Param('id') id: string, @Body() updatePersonDto: UpdatePersonDto) {
+    return this.peopleService.update(+id, updatePersonDto);
+  }
+
+  @Patch(EApiMethods.CHANGE_STATUS)
+  changeStatus(@Param('id', ParseIdPipe) id: number) {
+    return this.peopleService.changeStatus(id);
   }
 }

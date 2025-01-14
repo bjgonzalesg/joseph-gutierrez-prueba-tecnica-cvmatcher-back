@@ -1,5 +1,1 @@
-export enum ERoles {
-  USER = 'user',
-  ADMIN = 'admin',
-  LIBRARIAN = 'librarian',
-}
+export * from './roles.enum';

@@ -70,6 +70,11 @@ module.exports = {
           allowNull: false,
         },
 
+        nombres: {
+          type: Sequelize.DataTypes.STRING,
+          allowNull: false,
+        },
+
         documento_tipo_id: {
           type: Sequelize.DataTypes.INTEGER,
           allowNull: false,
@@ -83,11 +88,6 @@ module.exports = {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
           unique: true,
-        },
-
-        nombres: {
-          type: Sequelize.DataTypes.STRING,
-          allowNull: false,
         },
 
         ...timestamp,
