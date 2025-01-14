@@ -29,6 +29,14 @@ interface EnvVars {
   // *JWT
   JWT_KEY: string;
   JWT_EXPIRATION: string;
+
+  // *GOOGLE
+  GOOGLE_CLIENT_ID: string;
+  GOOGLE_CLIENT_SECRET: string;
+  GOOGLE_CALLBACK_URL: string;
+
+  // *FRONTEND
+  FRONTEND_URL: string;
 }
 
 const envsSchema = joi
@@ -62,6 +70,14 @@ const envsSchema = joi
     // *JWT
     JWT_KEY: joi.string().required(),
     JWT_EXPIRATION: joi.string().required(),
+
+    // *GOOGLE
+    GOOGLE_CLIENT_ID: joi.string().required(),
+    GOOGLE_CLIENT_SECRET: joi.string().required(),
+    GOOGLE_CALLBACK_URL: joi.string().required(),
+
+    // *FRONTEND
+    FRONTEND_URL: joi.string().required(),
   })
   .unknown(true);
 
@@ -101,4 +117,12 @@ export const envs = {
   // *JWT
   jwtKey: envVars.JWT_KEY,
   jwtExpiration: envVars.JWT_EXPIRATION,
+
+  // *GOOGLE
+  googleClientId: envVars.GOOGLE_CLIENT_ID,
+  googleClientSecret: envVars.GOOGLE_CLIENT_SECRET,
+  googleCallbackUrl: envVars.GOOGLE_CALLBACK_URL,
+
+  // *FRONTEND
+  frontendUrl: envVars.FRONTEND_URL,
 };

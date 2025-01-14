@@ -135,9 +135,19 @@ module.exports = {
           allowNull: false,
         },
 
+        email: {
+          type: Sequelize.DataTypes.STRING,
+          unique: true,
+          allowNull: false,
+        },
+
         password: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
+        },
+
+        avatar_url: {
+          type: Sequelize.DataTypes.STRING,
         },
 
         persona_id: {

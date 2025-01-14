@@ -6,7 +6,7 @@ module.exports = {
     const fns = `
       create or replace function sistemas.fn_get_usuario_por_username (_username varchar)
       returns table (
-        id int, username varchar, surnames text, names varchar, role varchar, "allowedPaths" varchar[], status boolean
+        id int, username varchar, surnames text, names varchar, "avatarUrl" varchar, role varchar, "allowedPaths" varchar[], status boolean
       )
       as $$
       begin
@@ -16,6 +16,7 @@ module.exports = {
           u.username as username,
           concat(p.apellido_paterno, ' ', p.apellido_materno) as surnames,
           p.nombres as names,
+          u.avatar_url as "avatarUrl",
           r.nombre as role,
           array_agg(pa.ruta) as "allowedPaths",
           case 

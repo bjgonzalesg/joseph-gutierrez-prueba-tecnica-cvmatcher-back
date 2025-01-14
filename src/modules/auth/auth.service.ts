@@ -9,9 +9,11 @@ import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';
 import { QueryTypes } from 'sequelize';
+import { Role } from '../roles';
 import {
   AuthResponseDto,
   ChangePasswordDto,
+  GoogleAuthDto,
   LoginDto,
   UserAuthDto,
 } from './dto';
@@ -54,6 +56,18 @@ export class AuthService {
     return UserAuthDto;
   }
 
+  async validateToken(token: string): Promise<AuthResponseDto> {
+    try {
+      const payload = this.jwtService.verify(token) as Payload;
+
+      const userAuthDto = await this.findOneUserByUsername(payload.username);
+
+      return this.login(userAuthDto);
+    } catch (error) {
+      throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
+    }
+  }
+
   async changePassword(
     user: Payload,
     changePasswordDto: ChangePasswordDto,
@@ -82,6 +96,22 @@ export class AuthService {
     if (!match) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
 
     return await this.findOneUserByUsername(username);
+  }
+
+  // * Google Strategy (login)
+  async validateGoogleUser(googleUser: GoogleAuthDto) {
+    const user = await this.userRepository.findOne({
+      where: { email: googleUser.email },
+      include: [Role],
+    });
+
+    if (!user) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
+
+    if (user.avatar_url !== googleUser.avatarUrl) {
+      await user.update({ avatar_url: googleUser.avatarUrl });
+    }
+
+    return user;
   }
 
   private async findOneUser(username: string): Promise<User> {

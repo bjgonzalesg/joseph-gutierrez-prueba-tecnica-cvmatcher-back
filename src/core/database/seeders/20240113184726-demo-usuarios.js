@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unused-vars */
 'use strict';
 
 const bcrypt = require('bcrypt');
@@ -16,6 +17,7 @@ module.exports = {
         nombres: 'ROBERTO JUNIOR',
         documento_tipo_id: 1,
         documento: '75608743',
+        email: 'rjnunezc@unitru.edu.pe',
       },
       {
         apellido_paterno: 'GONZALES',
@@ -23,12 +25,13 @@ module.exports = {
         nombres: 'BRANDON JOSEPH',
         documento_tipo_id: 1,
         documento: '70452182',
+        email: 't022700120@unitru.edu.pe',
       },
     ];
 
     await queryInterface.bulkInsert(
       { schema, tableName: 'personas' },
-      peopleWithAdminRole,
+      peopleWithAdminRole.map(({ email, ...rest }) => rest),
       {},
     );
 
@@ -38,6 +41,7 @@ module.exports = {
     const usersWithAdminRole = peopleWithAdminRole.map((person, index) => ({
       username: person.documento,
       password: bcrypt.hashSync(person.documento, salt),
+      email: person.email,
       persona_id: index + 1,
       rol_id: adminRoleId,
     }));
