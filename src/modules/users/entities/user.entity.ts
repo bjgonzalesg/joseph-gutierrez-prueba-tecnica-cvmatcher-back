@@ -59,8 +59,8 @@ export class User extends Model<User> {
   rol_id: number;
 
   @BelongsTo(() => Person)
-  person: Person;
+  persona: Person;
 
   @BelongsTo(() => Role)
-  role: Role;
+  rol: Role;
 }

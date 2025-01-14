@@ -28,7 +28,7 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
     const { username } = payload;
 
     const [user] = (await this.userRepository.sequelize.query(
-      'SELECT * FROM sistemas.fn_get_user_by_username(?);',
+      'SELECT * FROM sistemas.fn_get_usuario_por_username(?);',
       {
         type: QueryTypes.SELECT,
         replacements: [username],

@@ -22,12 +22,5 @@ export class Role extends Model<Role> {
     allowNull: false,
     unique: true,
   })
-  name: string;
-
-  @ApiProperty()
-  @Column({
-    type: DataType.STRING,
-    allowNull: false,
-  })
-  description: string;
+  nombre: string;
 }
