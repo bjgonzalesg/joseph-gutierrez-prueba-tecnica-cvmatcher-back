@@ -30,8 +30,7 @@
     "db:seed": "npx sequelize-cli db:seed:all --env development",
     "db:seed:undo": "npx sequelize-cli db:seed:undo --env development",
     "db:seed:undo:all": "npx sequelize-cli db:seed:undo:all --env development",
-    "db:seed:refresh": "npm run seed:undo:all && npm run seed",
-    "start:docker:dev": "npm run db:migrate:seed && nest start --watch"
+    "db:seed:refresh": "npm run seed:undo:all && npm run seed"
   },
   "dependencies": {
     "@nestjs/common": "^10.0.0",
