@@ -1,7 +1,9 @@
+import { NodemailerModule } from '@/common/nodemailer/nodemailer.module';
 import { envs } from '@/core/config';
 import { Module } from '@nestjs/common';
 import { JwtModule } from '@nestjs/jwt';
 import { PassportModule } from '@nestjs/passport';
+import { UserCodeProviders } from '../user-codes';
 import { usersProviders } from '../users/providers';
 import { AuthController } from './auth.controller';
 import { AuthService } from './auth.service';
@@ -17,6 +19,7 @@ import { LocalStrategy } from './strategies/local.strategy';
     JwtStrategy,
     GoogleStrategy,
     ...usersProviders,
+    ...UserCodeProviders,
   ],
   imports: [
     PassportModule.register({ defaultStrategy: 'jwt' }),
@@ -26,6 +29,7 @@ import { LocalStrategy } from './strategies/local.strategy';
         expiresIn: envs.jwtExpiration,
       },
     }),
+    NodemailerModule,
   ],
   exports: [AuthModule, JwtModule],
 })

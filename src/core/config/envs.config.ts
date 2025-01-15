@@ -30,6 +30,12 @@ interface EnvVars {
   JWT_KEY: string;
   JWT_EXPIRATION: string;
 
+  // *NODEMAILER
+  NM_SERVICE: string;
+  NM_USER: string;
+  NM_PASSWORD: string;
+  CODE_EXPIRATION_IN_MINUTES: number;
+
   // *GOOGLE
   GOOGLE_CLIENT_ID: string;
   GOOGLE_CLIENT_SECRET: string;
@@ -70,6 +76,12 @@ const envsSchema = joi
     // *JWT
     JWT_KEY: joi.string().required(),
     JWT_EXPIRATION: joi.string().required(),
+
+    // *NODEMAILER
+    NM_SERVICE: joi.string().required(),
+    NM_USER: joi.string().required(),
+    NM_PASSWORD: joi.string().required(),
+    CODE_EXPIRATION_IN_MINUTES: joi.number().required(),
 
     // *GOOGLE
     GOOGLE_CLIENT_ID: joi.string().required(),
@@ -117,6 +129,12 @@ export const envs = {
   // *JWT
   jwtKey: envVars.JWT_KEY,
   jwtExpiration: envVars.JWT_EXPIRATION,
+
+  // *NODEMAILER
+  nmService: envVars.NM_SERVICE,
+  nmUser: envVars.NM_USER,
+  nmPassword: envVars.NM_PASSWORD,
+  codeExpirationInMinutes: envVars.CODE_EXPIRATION_IN_MINUTES,
 
   // *GOOGLE
   googleClientId: envVars.GOOGLE_CLIENT_ID,

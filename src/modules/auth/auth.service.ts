@@ -1,6 +1,13 @@
+import { addMinutesToDate } from '@/common/helpers';
+import { NodemailerService } from '@/common/nodemailer/nodemailer.service';
+import { envs } from '@/core/config';
 import {
+  CODE_EXPIRED_MESSAGE,
+  CODE_NOT_FOUND_MESSAGE,
   CREDENTIALS_INVALID_MESSAGE,
+  MAIL_NOT_FOUND_MESSAGE,
   USER_ALREADY_EXISTS_MESSAGE,
+  USER_CODE_REPOSITORY,
   USER_REPOSITORY,
 } from '@/core/constants';
 import { CreateUserDto } from '@/modules/users/dto';
@@ -9,14 +16,19 @@ import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';
 import { QueryTypes } from 'sequelize';
+import { v4 } from 'uuid';
 import { Role } from '../roles';
+import { UserCode } from '../user-codes';
 import {
   AuthResponseDto,
   ChangePasswordDto,
   GoogleAuthDto,
   LoginDto,
+  RecoverPasswordDto,
+  RequestRecoverPasswordDto,
   UserAuthDto,
 } from './dto';
+import { ECodeTypes } from './enums';
 import { Payload } from './interfaces';
 
 @Injectable()
@@ -24,6 +36,9 @@ export class AuthService {
   constructor(
     @Inject(USER_REPOSITORY) private readonly userRepository: typeof User,
     private readonly jwtService: JwtService,
+    @Inject(USER_CODE_REPOSITORY)
+    private readonly userCodeRepository: typeof UserCode,
+    private readonly nodemailerService: NodemailerService,
   ) {}
 
   login(user: UserAuthDto): AuthResponseDto {
@@ -54,6 +69,66 @@ export class AuthService {
     const UserAuthDto = await this.findOneUserByUsername(username);
 
     return UserAuthDto;
+  }
+
+  async requestRecoverPassword(
+    request: RequestRecoverPasswordDto,
+  ): Promise<void> {
+    const { email } = request;
+
+    const user = await this.userRepository.findOne({
+      where: { email: email },
+    });
+
+    if (!user) throw new UnauthorizedException(MAIL_NOT_FOUND_MESSAGE);
+
+    const token: string = v4();
+
+    const frontendUrl = envs.frontendUrl;
+
+    await this.nodemailerService.sendMail({
+      to: email,
+      subject: 'Recuperar contraseña',
+      html: `
+        <div>
+          <a href="${frontendUrl}/recover-password/${token}">Click aqui para recuperar tu contraseña</a>
+          <p>Tiempo de expiracion: <b>${envs.codeExpirationInMinutes}</b> minutos</p>
+        </div>`,
+    });
+
+    await this.userCodeRepository.create({
+      usuario_id: user.id,
+      codigo: token,
+      codigo_tipo: ECodeTypes.REQUEST_RECOVER_PASSWORD,
+      fecha_expiracion: addMinutesToDate(
+        new Date(),
+        envs.codeExpirationInMinutes,
+      ),
+    });
+  }
+
+  async recoverPassword(recoverPasswordDto: RecoverPasswordDto): Promise<void> {
+    const { code, password } = recoverPasswordDto;
+
+    const userCode = await this.userCodeRepository.findOne({
+      where: { codigo: code },
+    });
+
+    if (!userCode) throw new UnauthorizedException(CODE_NOT_FOUND_MESSAGE);
+
+    if (userCode.fecha_expiracion < new Date()) {
+      await userCode.destroy();
+      throw new UnauthorizedException(CODE_EXPIRED_MESSAGE);
+    }
+
+    const user = await this.userRepository.findByPk(userCode.usuario_id);
+
+    const newPasswordHashed = this.hashPassword(password);
+
+    user.password = newPasswordHashed;
+
+    await user.save();
+    await userCode.destroy();
   }
 
   async validateToken(token: string): Promise<AuthResponseDto> {

@@ -243,6 +243,42 @@ module.exports = {
         ...timestamp,
       },
     );
+
+    //* Crear la tabla "usuario_codigos"
+    await queryInterface.createTable(
+      {
+        schema,
+        tableName: 'usuario_codigos',
+      },
+      {
+        id: {
+          type: Sequelize.INTEGER,
+          primaryKey: true,
+          autoIncrement: true,
+        },
+        usuario_id: {
+          type: Sequelize.INTEGER,
+          allowNull: false,
+          references: {
+            model: { schema, tableName: 'usuarios' },
+            key: 'id',
+          },
+        },
+        codigo: {
+          type: Sequelize.STRING,
+          allowNull: false,
+        },
+        codigo_tipo: {
+          type: Sequelize.ENUM('SOLICITUD_CAMBIO_CONTRASENA'),
+          allowNull: false,
+        },
+        fecha_expiracion: {
+          type: Sequelize.DATE,
+          allowNull: false,
+        },
+        ...timestamp,
+      },
+    );
   },
 
   async down(queryInterface) {
@@ -265,5 +301,8 @@ module.exports = {
 
     // Eliminar la tabla "documento_tipos"
     await queryInterface.dropTable({ schema, tableName: 'documento_tipos' });
+
+    // Eliminar la tabla "usuario_codigos"
+    await queryInterface.dropTable({ schema, tableName: 'usuario_codigos' });
   },
 };

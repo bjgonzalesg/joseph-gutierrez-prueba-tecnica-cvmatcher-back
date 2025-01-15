@@ -4,6 +4,7 @@ import {
   Body,
   Controller,
   Get,
+  HttpCode,
   Patch,
   Post,
   Query,
@@ -17,7 +18,13 @@ import { Request, Response } from 'express';
 import { AuthService } from './auth.service';
 import { Auth } from './decorators';
 import { GetUser } from './decorators/get-user.decorator';
-import { AuthResponseDto, ChangePasswordDto, UserAuthDto } from './dto';
+import {
+  AuthResponseDto,
+  ChangePasswordDto,
+  RecoverPasswordDto,
+  RequestRecoverPasswordDto,
+  UserAuthDto,
+} from './dto';
 import { LoginDto } from './dto/login.dto';
 import { GoogleAuthGuard } from './guards';
 import { Payload } from './interfaces';
@@ -44,6 +51,17 @@ export class AuthController {
   @Get('validate-token')
   validateToken(@Query('token') token: string) {
     return this.authService.validateToken(token);
+  }
+
+  @Post('request-recover-password')
+  @HttpCode(202)
+  requestRecoverPassword(@Body() request: RequestRecoverPasswordDto) {
+    return this.authService.requestRecoverPassword(request);
+  }
+
+  @Patch('recover-password')
+  recoverPassword(@Body() recoverPasswordDto: RecoverPasswordDto) {
+    return this.authService.recoverPassword(recoverPasswordDto);
   }
 
   @Patch('change-password')
