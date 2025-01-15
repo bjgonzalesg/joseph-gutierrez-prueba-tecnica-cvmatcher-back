@@ -22,6 +22,7 @@ export class UsersService {
       include: [{ all: true }],
       limit,
       offset,
+      paranoid: false,
       order: [['id', 'ASC']],
     });
 
