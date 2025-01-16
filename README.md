@@ -1,8 +1,8 @@
 # BACKEND BOLETASPAGO - UNT
 
 <p align="center">
-  <a href="http://nestjs.com/" target="blank">
-  <img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6e/Universidad_Nacional_de_Trujillo_-_Per%C3%BA_vector_logo.png"
+  width="400" alt="Nest Logo" />
   </a>
 </p>
 
@@ -35,12 +35,6 @@ npm install
 ```bash
 # development
 $ npm run start:dev
-```
-
-## DOCKER
-
-```bash
-  docker-compose up --build
 ```
 
 > [!NOTE]
