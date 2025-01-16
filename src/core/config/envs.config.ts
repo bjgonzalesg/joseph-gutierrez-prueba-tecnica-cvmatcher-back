@@ -30,6 +30,10 @@ interface EnvVars {
   JWT_KEY: string;
   JWT_EXPIRATION: string;
 
+  // *CACHE
+  CACHE_TTL_DEFAULT: number;
+  CACHE_MAX_ITEMS_DEFAULT: number;
+
   // *NODEMAILER
   NM_SERVICE: string;
   NM_USER: string;
@@ -76,6 +80,10 @@ const envsSchema = joi
     // *JWT
     JWT_KEY: joi.string().required(),
     JWT_EXPIRATION: joi.string().required(),
+
+    // *CACHE
+    CACHE_TTL_DEFAULT: joi.number().required(),
+    CACHE_MAX_ITEMS_DEFAULT: joi.number().required(),
 
     // *NODEMAILER
     NM_SERVICE: joi.string().required(),
@@ -129,6 +137,10 @@ export const envs = {
   // *JWT
   jwtKey: envVars.JWT_KEY,
   jwtExpiration: envVars.JWT_EXPIRATION,
+
+  // *CACHE
+  cacheTtlDefault: envVars.CACHE_TTL_DEFAULT,
+  cacheMaxItemsDefault: envVars.CACHE_MAX_ITEMS_DEFAULT,
 
   // *NODEMAILER
   nmService: envVars.NM_SERVICE,

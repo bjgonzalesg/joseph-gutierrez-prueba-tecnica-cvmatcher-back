@@ -17,7 +17,7 @@ import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';
 import { QueryTypes } from 'sequelize';
 import { v4 } from 'uuid';
-import { Role } from '../roles';
+import { Role } from '../roles/entities';
 import { UserCode } from '../user-codes';
 import {
   AuthResponseDto,

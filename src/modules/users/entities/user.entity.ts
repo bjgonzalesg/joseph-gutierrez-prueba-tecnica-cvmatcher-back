@@ -1,5 +1,5 @@
 import { Person } from '@/modules/people/entities/person.entity';
-import { Role } from '@/modules/roles';
+import { Role } from '@/modules/roles/entities';
 import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
 import {
   BelongsTo,

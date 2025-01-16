@@ -1,6 +1,6 @@
 import { DocumentType } from '@/modules/document-type/document-type.entity';
 import { Person } from '@/modules/people/entities/person.entity';
-import { Role } from '@/modules/roles';
+import { Role } from '@/modules/roles/entities';
 import { UserCode } from '@/modules/user-codes';
 import { User } from '@/modules/users/entities/user.entity';
 import { Sequelize } from 'sequelize-typescript';
