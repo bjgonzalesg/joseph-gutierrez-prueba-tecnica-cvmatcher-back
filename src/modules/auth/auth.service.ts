@@ -32,6 +32,7 @@ import {
 } from './dto';
 import { ECodeTypes } from './enums';
 import { Payload } from './interfaces';
+import { Op } from 'sequelize';
 
 @Injectable()
 export class AuthService {
@@ -59,7 +60,14 @@ export class AuthService {
     const { documento, email, rol_id } = createUserDto;
 
     const verifyUser = await this.userRepository.findOne({
-      where: { username: documento },
+      where: {
+        [Op.or]: [
+          {
+            username: documento,
+          },
+          { email },
+        ],
+      },
     });
 
     if (verifyUser)
@@ -69,15 +77,19 @@ export class AuthService {
       where: { documento },
     });
 
-    const newUser = await this.userRepository.create({
-      username: person.documento,
-      password: this.hashPassword(person.documento),
-      email,
-      persona_id: person.id,
-      rol_id,
-    });
+    try {
+      const newUser = await this.userRepository.create({
+        username: person.documento,
+        password: this.hashPassword(person.documento),
+        email,
+        persona_id: person.id,
+        rol_id,
+      });
 
-    return newUser.reload({ include: { all: true } });
+      return newUser.reload({ include: { all: true } });
+    } catch (error) {
+      console.log(error);
+    }
   }
 
   async requestRecoverPassword(
