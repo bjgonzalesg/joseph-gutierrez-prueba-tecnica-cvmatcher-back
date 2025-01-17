@@ -1,8 +1,6 @@
+import { QueryFindAllByFilterPaginated } from '@/common/dtos';
 import { EApiMethods, EApiRoutes } from '@/common/enums';
-import {
-  CreatePaginationDto,
-  ResponsePaginationDto,
-} from '@/common/pagination/dtos';
+import { ResponsePaginationDto } from '@/common/pagination/dtos';
 import { ParseIdPipe } from '@/common/pipes/parse-id.pipe';
 import { Body, Controller, Get, Param, Patch, Query } from '@nestjs/common';
 import { ApiOkResponse, ApiTags } from '@nestjs/swagger';
@@ -14,10 +12,10 @@ import { UsersService } from './users.service';
 export class UsersController {
   constructor(private readonly usersService: UsersService) {}
 
-  @Get(EApiMethods.FIND_ALL_PAGINATED)
+  @Get(EApiMethods.FIND_ALL_BY_FILTER_PAGINATED)
   @ApiOkResponse({ type: ResponsePaginationDto })
-  findAllPaginate(@Query() createPaginationDto?: CreatePaginationDto) {
-    return this.usersService.findAllPaginate(createPaginationDto);
+  findAllByFilterPaginated(@Query() query: QueryFindAllByFilterPaginated) {
+    return this.usersService.findAllByFilterPaginated(query);
   }
 
   @Get('find-no-registered-by-document/:document')

@@ -1,10 +1,11 @@
+import { QueryFindAllByFilterPaginated } from '@/common/dtos';
 import { EApiMethods, EApiRoutes } from '@/common/enums';
-import { CreatePaginationDto, PaginationService } from '@/common/pagination';
+import { PaginationService } from '@/common/pagination';
 import { USER_REPOSITORY, USERS_NOT_FOUND_MESSAGE } from '@/core/constants';
 import { Inject, Injectable, NotFoundException } from '@nestjs/common';
+import { Op, QueryTypes, WhereOptions } from 'sequelize';
 import { UpdateUserDto } from './dto';
 import { User } from './entities/user.entity';
-import { QueryTypes } from 'sequelize';
 
 @Injectable()
 export class UsersService {
@@ -13,29 +14,37 @@ export class UsersService {
     @Inject(USER_REPOSITORY) private readonly userRepository: typeof User,
   ) {}
 
-  async findAllPaginate(
-    createPaginationDto?: CreatePaginationDto,
+  async findAllByFilterPaginated(
+    query: QueryFindAllByFilterPaginated,
   ): Promise<any> {
-    const { limit, offset } =
-      this.paginationService.generate(createPaginationDto);
+    const { filter, ...rest } = query;
+
+    const whereOptions: WhereOptions = filter
+      ? {
+          username: { [Op.iLike]: `%${filter}%` },
+        }
+      : null;
+
+    const { limit, offset } = this.paginationService.generate(rest);
 
     const { count, rows } = await this.userRepository.findAndCountAll({
+      where: whereOptions,
       attributes: { exclude: ['password'] },
       include: [{ all: true }],
       limit,
       offset,
       paranoid: false,
-      order: [['id', 'ASC']],
+      order: [['createdAt', 'DESC']],
     });
 
     if (!rows) throw new NotFoundException(USERS_NOT_FOUND_MESSAGE);
 
     return this.paginationService.paginate({
       total: count,
-      page: createPaginationDto.page,
       apiMethod: EApiMethods.FIND_ALL_PAGINATED,
       apiRoute: EApiRoutes.USERS,
-      limit,
+      limit: rest.limit,
+      page: rest.page,
       rows,
     });
   }

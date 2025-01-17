@@ -6,6 +6,7 @@ import {
   CODE_NOT_FOUND_MESSAGE,
   CREDENTIALS_INVALID_MESSAGE,
   MAIL_NOT_FOUND_MESSAGE,
+  PERSON_REPOSITORY,
   USER_ALREADY_EXISTS_MESSAGE,
   USER_CODE_REPOSITORY,
   USER_REPOSITORY,
@@ -17,6 +18,7 @@ import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';
 import { QueryTypes } from 'sequelize';
 import { v4 } from 'uuid';
+import { Person } from '../people/entities/person.entity';
 import { Role } from '../roles/entities';
 import { UserCode } from '../user-codes';
 import {
@@ -38,6 +40,8 @@ export class AuthService {
     private readonly jwtService: JwtService,
     @Inject(USER_CODE_REPOSITORY)
     private readonly userCodeRepository: typeof UserCode,
+    @Inject(PERSON_REPOSITORY)
+    private readonly personRepository: typeof Person,
     private readonly nodemailerService: NodemailerService,
   ) {}
 
@@ -51,24 +55,29 @@ export class AuthService {
     return { user, token };
   }
 
-  async singUp(createUserDto: CreateUserDto): Promise<UserAuthDto> {
-    const { username, password, persona_id, rol_id } = createUserDto;
+  async singUp(createUserDto: CreateUserDto): Promise<User> {
+    const { documento, email, rol_id } = createUserDto;
 
-    const verifyUser = await this.findOneUser(username);
+    const verifyUser = await this.userRepository.findOne({
+      where: { username: documento },
+    });
 
     if (verifyUser)
       throw new UnauthorizedException(USER_ALREADY_EXISTS_MESSAGE);
 
-    await this.userRepository.create({
-      username,
-      password: this.hashPassword(password),
-      persona_id,
+    const person = await this.personRepository.findOne({
+      where: { documento },
+    });
+
+    const newUser = await this.userRepository.create({
+      username: person.documento,
+      password: this.hashPassword(person.documento),
+      email,
+      persona_id: person.id,
       rol_id,
     });
 
-    const UserAuthDto = await this.findOneUserByUsername(username);
-
-    return UserAuthDto;
+    return newUser.reload({ include: { all: true } });
   }
 
   async requestRecoverPassword(

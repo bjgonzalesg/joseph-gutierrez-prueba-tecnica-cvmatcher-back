@@ -10,6 +10,7 @@ import { AuthService } from './auth.service';
 import { GoogleStrategy } from './strategies/google.strategy';
 import { JwtStrategy } from './strategies/jwt.strategy';
 import { LocalStrategy } from './strategies/local.strategy';
+import { peopleProviders } from '../people/providers';
 
 @Module({
   controllers: [AuthController],
@@ -20,6 +21,7 @@ import { LocalStrategy } from './strategies/local.strategy';
     GoogleStrategy,
     ...usersProviders,
     ...UserCodeProviders,
+    ...peopleProviders,
   ],
   imports: [
     PassportModule.register({ defaultStrategy: 'jwt' }),
