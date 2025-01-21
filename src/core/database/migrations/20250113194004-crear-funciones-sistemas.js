@@ -35,6 +35,21 @@ module.exports = {
         where u.username = _username
         group by u.id, p.apellido_paterno , p.apellido_materno, p.nombres, r.nombre, u."deletedAt";
       end$$ language plpgsql;
+
+
+      create or replace function sistemas.fn_get_persona_no_registrada_por_documento(_documento varchar)
+      returns table (id int4, nombres text)
+      as $$
+      begin
+        return query
+        select p.id, concat(p.apellido_paterno, ' ', p.apellido_materno , ', ', p.nombres) as nombres
+        from sistemas.personas p
+        where p.id not in (
+          select u.persona_id 
+          from sistemas.usuarios u
+        ) and p.documento = _documento;
+      end
+      $$ language plpgsql;
     `;
 
     await queryInterface.sequelize.query(fns);
@@ -43,6 +58,7 @@ module.exports = {
   async down(queryInterface) {
     const fns = `
       drop function sistemas.fn_get_usuario_por_username (_username varchar);
+      drop function sistemas.fn_get_persona_no_registrada_por_documento(_documento varchar);
     `;
 
     await queryInterface.sequelize.query(fns);

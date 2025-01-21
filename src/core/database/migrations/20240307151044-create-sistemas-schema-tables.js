@@ -290,6 +290,9 @@ module.exports = {
     // Eliminar la tabla "paginas"
     await queryInterface.dropTable({ schema, tableName: 'paginas' });
 
+    // Eliminar la tabla "usuario_codigos"
+    await queryInterface.dropTable({ schema, tableName: 'usuario_codigos' });
+
     // Eliminar la tabla "usuarios"
     await queryInterface.dropTable({ schema, tableName: 'usuarios' });
 
@@ -301,8 +304,5 @@ module.exports = {
 
     // Eliminar la tabla "documento_tipos"
     await queryInterface.dropTable({ schema, tableName: 'documento_tipos' });
-
-    // Eliminar la tabla "usuario_codigos"
-    await queryInterface.dropTable({ schema, tableName: 'usuario_codigos' });
   },
 };
