@@ -1,8 +1,5 @@
-import { DocumentType } from '@/modules/document-type/document-type.entity';
-import { Person } from '@/modules/people/entities/person.entity';
-import { Role } from '@/modules/roles/entities';
-import { UserCode } from '@/modules/user-codes';
-import { User } from '@/modules/users/entities/user.entity';
+import { Role } from '@/modules/roles/role.entity';
+import { User } from '@/modules/users/user.entity';
 import { Sequelize } from 'sequelize-typescript';
 import { DEVELOPMENT, PRODUCTION, SEQUELIZE, TEST } from '../constants';
 import { databaseConfig } from './config/database.config';
@@ -30,7 +27,7 @@ export const databaseProviders = [
         define: { freezeTableName: true },
       });
 
-      sequelize.addModels([User, Role, Person, DocumentType, UserCode]);
+      sequelize.addModels([User, Role]);
 
       return sequelize;
     },

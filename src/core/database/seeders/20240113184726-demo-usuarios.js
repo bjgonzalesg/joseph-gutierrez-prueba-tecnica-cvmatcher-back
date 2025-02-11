@@ -1,6 +1,8 @@
+/* eslint-disable @typescript-eslint/no-var-requires */
 /* eslint-disable @typescript-eslint/no-unused-vars */
 'use strict';
 
+// eslint-disable-next-line no-undef
 const bcrypt = require('bcrypt');
 
 /** @type {import('sequelize-cli').Migration} */
@@ -8,47 +10,33 @@ module.exports = {
   async up(queryInterface) {
     const schema = 'sistemas';
 
-    const adminRoleId = 1;
+    const userRoleId = 1;
+    const proRoleId = 2;
+    const adminRoleId = 3;
 
-    const peopleWithAdminRole = [
-      {
-        apellido_paterno: 'NÚÑEZ',
-        apellido_materno: 'CASAUX',
-        nombres: 'ROBERTO JUNIOR',
-        documento_tipo_id: 1,
-        documento: '75608743',
-        email: 'rjnunezc@unitru.edu.pe',
-      },
-      {
-        apellido_paterno: 'GONZALES',
-        apellido_materno: 'GUTIERREZ',
-        nombres: 'BRANDON JOSEPH',
-        documento_tipo_id: 1,
-        documento: '70452182',
-        email: 't022700120@unitru.edu.pe',
-      },
-    ];
-
-    await queryInterface.bulkInsert(
-      { schema, tableName: 'personas' },
-      peopleWithAdminRole.map(({ email, ...rest }) => rest),
-      {},
-    );
-
-    // * Hash passwords
     const salt = bcrypt.genSaltSync(10);
 
-    const usersWithAdminRole = peopleWithAdminRole.map((person, index) => ({
-      username: person.documento,
-      password: bcrypt.hashSync(person.documento, salt),
-      email: person.email,
-      persona_id: index + 1,
-      rol_id: adminRoleId,
-    }));
+    const userWithUserRole = {
+      username: 'user',
+      password: bcrypt.hashSync('user', salt),
+      role_id: userRoleId,
+    };
+
+    const userWithProRole = {
+      username: 'pro',
+      password: bcrypt.hashSync('pro', salt),
+      role_id: proRoleId,
+    };
+
+    const userWithAdminRole = {
+      username: 'admin',
+      password: bcrypt.hashSync('admin', salt),
+      role_id: adminRoleId,
+    };
 
     await queryInterface.bulkInsert(
       { schema, tableName: 'usuarios' },
-      usersWithAdminRole,
+      [userWithUserRole, userWithProRole, userWithAdminRole],
       {},
     );
   },

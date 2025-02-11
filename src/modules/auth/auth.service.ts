@@ -1,49 +1,17 @@
-import { addMinutesToDate } from '@/common/helpers';
-import { NodemailerService } from '@/common/nodemailer/nodemailer.service';
-import { envs } from '@/core/config';
-import {
-  CODE_EXPIRED_MESSAGE,
-  CODE_NOT_FOUND_MESSAGE,
-  CREDENTIALS_INVALID_MESSAGE,
-  MAIL_NOT_FOUND_MESSAGE,
-  PERSON_REPOSITORY,
-  USER_ALREADY_EXISTS_MESSAGE,
-  USER_CODE_REPOSITORY,
-  USER_REPOSITORY,
-} from '@/core/constants';
-import { CreateUserDto } from '@/modules/users/dto';
-import { User } from '@/modules/users/entities';
+import { CREDENTIALS_INVALID_MESSAGE, USER_REPOSITORY } from '@/core/constants';
+import { User } from '@/modules/users';
 import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';
 import { QueryTypes } from 'sequelize';
-import { v4 } from 'uuid';
-import { Person } from '../people/entities/person.entity';
-import { Role } from '../roles/entities';
-import { UserCode } from '../user-codes';
-import {
-  AuthResponseDto,
-  ChangePasswordDto,
-  GoogleAuthDto,
-  LoginDto,
-  RecoverPasswordDto,
-  RequestRecoverPasswordDto,
-  UserAuthDto,
-} from './dto';
-import { ECodeTypes } from './enums';
+import { AuthResponseDto, LoginDto, UserAuthDto } from './dto';
 import { Payload } from './interfaces';
-import { Op } from 'sequelize';
 
 @Injectable()
 export class AuthService {
   constructor(
     @Inject(USER_REPOSITORY) private readonly userRepository: typeof User,
     private readonly jwtService: JwtService,
-    @Inject(USER_CODE_REPOSITORY)
-    private readonly userCodeRepository: typeof UserCode,
-    @Inject(PERSON_REPOSITORY)
-    private readonly personRepository: typeof Person,
-    private readonly nodemailerService: NodemailerService,
   ) {}
 
   login(user: UserAuthDto): AuthResponseDto {
@@ -54,129 +22,6 @@ export class AuthService {
     });
 
     return { user, token };
-  }
-
-  async singUp(createUserDto: CreateUserDto): Promise<User> {
-    const { documento, email, rol_id } = createUserDto;
-
-    const verifyUser = await this.userRepository.findOne({
-      where: {
-        [Op.or]: [
-          {
-            username: documento,
-          },
-          { email },
-        ],
-      },
-    });
-
-    if (verifyUser)
-      throw new UnauthorizedException(USER_ALREADY_EXISTS_MESSAGE);
-
-    const person = await this.personRepository.findOne({
-      where: { documento },
-    });
-
-    try {
-      const newUser = await this.userRepository.create({
-        username: person.documento,
-        password: this.hashPassword(person.documento),
-        email,
-        persona_id: person.id,
-        rol_id,
-      });
-
-      return newUser.reload({ include: { all: true } });
-    } catch (error) {
-      console.log(error);
-    }
-  }
-
-  async requestRecoverPassword(
-    request: RequestRecoverPasswordDto,
-  ): Promise<void> {
-    const { email } = request;
-
-    const user = await this.userRepository.findOne({
-      where: { email: email },
-    });
-
-    if (!user) throw new UnauthorizedException(MAIL_NOT_FOUND_MESSAGE);
-
-    const token: string = v4();
-
-    const frontendUrl = envs.frontendUrl;
-
-    await this.nodemailerService.sendMail({
-      to: email,
-      subject: 'Recuperar contraseña',
-      html: `
-        <div>
-          <a href="${frontendUrl}/recover-password/${token}">Click aqui para recuperar tu contraseña</a>
-          <p>Tiempo de expiracion: <b>${envs.codeExpirationInMinutes}</b> minutos</p>
-        </div>`,
-    });
-
-    await this.userCodeRepository.create({
-      usuario_id: user.id,
-      codigo: token,
-      codigo_tipo: ECodeTypes.REQUEST_RECOVER_PASSWORD,
-      fecha_expiracion: addMinutesToDate(
-        new Date(),
-        envs.codeExpirationInMinutes,
-      ),
-    });
-  }
-
-  async recoverPassword(recoverPasswordDto: RecoverPasswordDto): Promise<void> {
-    const { code, password } = recoverPasswordDto;
-
-    const userCode = await this.userCodeRepository.findOne({
-      where: { codigo: code },
-    });
-
-    if (!userCode) throw new UnauthorizedException(CODE_NOT_FOUND_MESSAGE);
-
-    if (userCode.fecha_expiracion < new Date()) {
-      await userCode.destroy();
-      throw new UnauthorizedException(CODE_EXPIRED_MESSAGE);
-    }
-
-    const user = await this.userRepository.findByPk(userCode.usuario_id);
-
-    const newPasswordHashed = this.hashPassword(password);
-
-    user.password = newPasswordHashed;
-
-    await user.save();
-    await userCode.destroy();
-  }
-
-  async validateToken(token: string): Promise<AuthResponseDto> {
-    try {
-      const payload = this.jwtService.verify(token) as Payload;
-
-      const userAuthDto = await this.findOneUserByUsername(payload.username);
-
-      return this.login(userAuthDto);
-    } catch (error) {
-      throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
-    }
-  }
-
-  async changePassword(
-    user: Payload,
-    changePasswordDto: ChangePasswordDto,
-  ): Promise<void> {
-    const { current_password, new_password } = changePasswordDto;
-
-    const usr = await this.findOneUser(user.username);
-
-    const match = await this.comparePassword(current_password, usr.password);
-
-    if (!match) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
-
-    await usr.update({ password: this.hashPassword(new_password) });
   }
 
   //* Local Strategy (login)
@@ -192,22 +37,6 @@ export class AuthService {
     if (!match) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
 
     return await this.findOneUserByUsername(username);
-  }
-
-  // * Google Strategy (login)
-  async validateGoogleUser(googleUser: GoogleAuthDto) {
-    const user = await this.userRepository.findOne({
-      where: { email: googleUser.email },
-      include: [Role],
-    });
-
-    if (!user) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
-
-    if (user.avatar_url !== googleUser.avatarUrl) {
-      await user.update({ avatar_url: googleUser.avatarUrl });
-    }
-
-    return user;
   }
 
   private async findOneUser(username: string): Promise<User> {
@@ -233,11 +62,6 @@ export class AuthService {
   private generateToken(payload: Payload): string {
     const token = this.jwtService.sign(payload);
     return token;
-  }
-
-  private hashPassword(password: string): string {
-    const hash: string = bcrypt.hashSync(password, 10);
-    return hash;
   }
 
   private async comparePassword(

@@ -4,7 +4,7 @@ import {
   USER_NOT_AUTHORIZED_MESSAGE,
   USER_REPOSITORY,
 } from '@/core/constants';
-import { User } from '@/modules/users/entities';
+import { User } from '@/modules/users';
 import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { PassportStrategy } from '@nestjs/passport';
 import { ExtractJwt, Strategy } from 'passport-jwt';

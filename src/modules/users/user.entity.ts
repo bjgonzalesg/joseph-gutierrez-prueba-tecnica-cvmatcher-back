@@ -1,6 +1,5 @@
-import { Person } from '@/modules/people/entities/person.entity';
-import { Role } from '@/modules/roles/entities';
-import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
+import { Role } from '@/modules/roles/role.entity';
+import { ApiProperty } from '@nestjs/swagger';
 import {
   BelongsTo,
   Column,
@@ -39,31 +38,7 @@ export class User extends Model<User> {
     allowNull: false,
     unique: true,
   })
-  email: string;
-
-  @ApiProperty()
-  @Column({
-    type: DataType.STRING,
-    allowNull: false,
-    unique: true,
-  })
   password: string;
-
-  @ApiPropertyOptional()
-  @Column({
-    type: DataType.STRING,
-    allowNull: true,
-  })
-  avatar_url: string;
-
-  @ApiProperty()
-  @ForeignKey(() => Person)
-  @Column({
-    type: DataType.INTEGER,
-    allowNull: false,
-    unique: true,
-  })
-  persona_id: number;
 
   @ApiProperty()
   @ForeignKey(() => Role)
@@ -71,10 +46,7 @@ export class User extends Model<User> {
     type: DataType.INTEGER,
     allowNull: false,
   })
-  rol_id: number;
-
-  @BelongsTo(() => Person)
-  persona: Person;
+  role_id: number;
 
   @BelongsTo(() => Role)
   rol: Role;

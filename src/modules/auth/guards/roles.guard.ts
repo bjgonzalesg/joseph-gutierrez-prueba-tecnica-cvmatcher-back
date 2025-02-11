@@ -13,7 +13,7 @@ import {
 import { Reflector } from '@nestjs/core';
 import { Request } from 'express';
 import { Observable } from 'rxjs';
-import { ERoles } from '../enums';
+import { Role } from '../enums/roles.enum';
 import { Payload } from '../interfaces';
 
 @Injectable()
@@ -24,7 +24,7 @@ export class RolesGuard implements CanActivate {
     context: ExecutionContext,
   ): boolean | Promise<boolean> | Observable<boolean> {
     //* GET METADATA
-    const requiredRole = this.reflector.getAllAndOverride<ERoles[]>(ROLES_KEY, [
+    const requiredRole = this.reflector.getAllAndOverride<Role[]>(ROLES_KEY, [
       context.getHandler(),
       context.getClass(),
     ]);

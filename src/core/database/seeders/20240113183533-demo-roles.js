@@ -5,7 +5,7 @@ module.exports = {
   async up(queryInterface, Sequelize) {
     const schema = 'sistemas';
 
-    const data = [{ nombre: 'ADMIN' }];
+    const data = [{ nombre: 'USER' }, { nombre: 'PRO' }, { nombre: 'ADMIN' }];
 
     await queryInterface.bulkInsert({ schema, tableName: 'roles' }, data, {});
   },
