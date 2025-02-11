@@ -5,7 +5,25 @@ module.exports = {
   async up(queryInterface, Sequelize) {
     const schema = 'sistemas';
 
-    //* Crear la tabla "roles"
+    const timestamp = {
+      createdAt: {
+        type: Sequelize.DataTypes.DATE,
+        defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
+        allowNull: false,
+      },
+
+      updatedAt: {
+        type: Sequelize.DataTypes.DATE,
+        defaultValue: Sequelize.literal('CURRENT_TIMESTAMP'),
+        allowNull: false,
+      },
+
+      deletedAt: {
+        type: Sequelize.DataTypes.DATE,
+      },
+    };
+
+    // *Create "roles" table
     await queryInterface.createTable(
       {
         schema,
@@ -18,18 +36,20 @@ module.exports = {
           autoIncrement: true,
         },
 
-        nombre: {
+        name: {
           type: Sequelize.DataTypes.STRING,
           allowNull: false,
         },
+
+        ...timestamp,
       },
     );
 
-    //* Crear la tabla "usuarios"
+    // *Create "users" table
     await queryInterface.createTable(
       {
         schema,
-        tableName: 'usuarios',
+        tableName: 'users',
       },
       {
         id: {
@@ -57,6 +77,8 @@ module.exports = {
             key: 'id',
           },
         },
+
+        ...timestamp,
       },
     );
   },
@@ -64,10 +86,10 @@ module.exports = {
   async down(queryInterface) {
     const schema = 'sistemas';
 
-    // Eliminar la tabla "usuarios"
-    await queryInterface.dropTable({ schema, tableName: 'usuarios' });
+    // *Drop "users" table
+    await queryInterface.dropTable({ schema, tableName: 'users' });
 
-    // Eliminar la tabla "roles"
+    // *Drop "roles" table
     await queryInterface.dropTable({ schema, tableName: 'roles' });
   },
 };

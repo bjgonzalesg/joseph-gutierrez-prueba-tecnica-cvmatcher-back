@@ -13,8 +13,9 @@ import {
 import { Reflector } from '@nestjs/core';
 import { Request } from 'express';
 import { Observable } from 'rxjs';
-import { Role } from '../enums/roles.enum';
+import { Role } from '../enums/role.enum';
 import { Payload } from '../interfaces';
+import { User } from '@/modules/users';
 
 @Injectable()
 export class RolesGuard implements CanActivate {
@@ -40,10 +41,10 @@ export class RolesGuard implements CanActivate {
       throw new UnauthorizedException(USER_NOT_AUTHORIZED_MESSAGE);
 
     // *GET USER
-    const user = req.user as Payload;
+    const user = req.user as User;
 
     // *CHECK ROLE
-    const validRole = requiredRole.some((role) => user.role === role);
+    const validRole = requiredRole.some((role) => user.role.name === role);
 
     if (!validRole)
       throw new UnauthorizedException(ROLE_NOT_AUTHORIZED_MESSAGE);

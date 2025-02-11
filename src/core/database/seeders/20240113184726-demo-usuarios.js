@@ -35,7 +35,7 @@ module.exports = {
     };
 
     await queryInterface.bulkInsert(
-      { schema, tableName: 'usuarios' },
+      { schema, tableName: 'users' },
       [userWithUserRole, userWithProRole, userWithAdminRole],
       {},
     );

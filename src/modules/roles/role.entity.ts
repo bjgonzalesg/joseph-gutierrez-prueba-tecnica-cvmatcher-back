@@ -22,5 +22,5 @@ export class Role extends Model<Role> {
     allowNull: false,
     unique: true,
   })
-  nombre: string;
+  name: string;
 }

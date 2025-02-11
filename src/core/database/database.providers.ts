@@ -1,3 +1,4 @@
+import { Job } from '@/modules/jobs/entities/job.entity';
 import { Role } from '@/modules/roles/role.entity';
 import { User } from '@/modules/users/user.entity';
 import { Sequelize } from 'sequelize-typescript';
@@ -27,7 +28,7 @@ export const databaseProviders = [
         define: { freezeTableName: true },
       });
 
-      sequelize.addModels([User, Role]);
+      sequelize.addModels([User, Role, Job]);
 
       return sequelize;
     },

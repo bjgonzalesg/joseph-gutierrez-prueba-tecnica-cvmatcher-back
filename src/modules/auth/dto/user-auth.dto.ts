@@ -1,3 +1,4 @@
+import { Role } from '@/modules/roles/role.entity';
 import { ApiProperty, ApiPropertyOptional } from '@nestjs/swagger';
 
 export class UserAuthDto {
@@ -7,21 +8,6 @@ export class UserAuthDto {
   @ApiProperty()
   username: string;
 
-  @ApiProperty()
-  surnames: string;
-
-  @ApiProperty()
-  names: string;
-
-  @ApiPropertyOptional()
-  avatar_url: string;
-
-  @ApiProperty()
-  role: string;
-
-  @ApiProperty()
-  allowedPaths: string[];
-
-  @ApiProperty()
-  status: boolean;
+  @ApiProperty({ type: Role })
+  role: Role;
 }

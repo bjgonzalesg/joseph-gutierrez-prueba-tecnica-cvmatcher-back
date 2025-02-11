@@ -1,22 +1,14 @@
 import { envs } from '@/core/config';
-import {
-  ROLE_NOT_AUTHORIZED_MESSAGE,
-  USER_NOT_AUTHORIZED_MESSAGE,
-  USER_REPOSITORY,
-} from '@/core/constants';
-import { User } from '@/modules/users';
-import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
+import { USER_NOT_AUTHORIZED_MESSAGE } from '@/core/constants';
+import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { PassportStrategy } from '@nestjs/passport';
 import { ExtractJwt, Strategy } from 'passport-jwt';
-import { QueryTypes } from 'sequelize';
-import { UserAuthDto } from '../dto';
+import { AuthService } from '../auth.service';
 import { Payload } from '../interfaces';
 
 @Injectable()
 export class JwtStrategy extends PassportStrategy(Strategy) {
-  constructor(
-    @Inject(USER_REPOSITORY) private readonly userRepository: typeof User,
-  ) {
+  constructor(private readonly authService: AuthService) {
     super({
       jwtFromRequest: ExtractJwt.fromAuthHeaderAsBearerToken(),
       ignoreExpiration: false,
@@ -24,22 +16,17 @@ export class JwtStrategy extends PassportStrategy(Strategy) {
     });
   }
 
-  async validate(payload: Payload): Promise<UserAuthDto> {
+  async validate(payload: Payload) {
     const { username } = payload;
 
-    const [user] = (await this.userRepository.sequelize.query(
-      'SELECT * FROM sistemas.fn_get_usuario_por_username(?);',
-      {
-        type: QueryTypes.SELECT,
-        replacements: [username],
-      },
-    )) as [UserAuthDto];
+    const user = await this.authService.findOneUser(username);
 
-    if (!user) throw new UnauthorizedException(ROLE_NOT_AUTHORIZED_MESSAGE);
-
-    if (!user.status)
+    if (!user) throw new UnauthorizedException(USER_NOT_AUTHORIZED_MESSAGE);
+    if (!!user.deletedAt)
       throw new UnauthorizedException(USER_NOT_AUTHORIZED_MESSAGE);
 
-    return user;
+    const { password, ...rest } = user.dataValues;
+
+    return rest;
   }
 }

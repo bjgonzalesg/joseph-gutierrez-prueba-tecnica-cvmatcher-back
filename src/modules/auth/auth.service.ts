@@ -3,7 +3,7 @@ import { User } from '@/modules/users';
 import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';
-import { QueryTypes } from 'sequelize';
+import { Role } from '../roles/role.entity';
 import { AuthResponseDto, LoginDto, UserAuthDto } from './dto';
 import { Payload } from './interfaces';
 
@@ -18,7 +18,7 @@ export class AuthService {
     const token = this.generateToken({
       id: user.id,
       username: user.username,
-      role: user.role,
+      role: user.role.name,
     });
 
     return { user, token };
@@ -36,25 +36,16 @@ export class AuthService {
 
     if (!match) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
 
-    return await this.findOneUserByUsername(username);
+    const { password, ...rest } = user.dataValues;
+
+    return rest as UserAuthDto;
   }
 
-  private async findOneUser(username: string): Promise<User> {
+  async findOneUser(username: string): Promise<User> {
     const user = await this.userRepository.findOne({
       where: { username },
+      include: [Role],
     });
-
-    return user;
-  }
-
-  private async findOneUserByUsername(username: string): Promise<UserAuthDto> {
-    const [user] = (await this.userRepository.sequelize.query(
-      'SELECT * FROM sistemas.fn_get_usuario_por_username(?)',
-      {
-        type: QueryTypes.SELECT,
-        replacements: [username],
-      },
-    )) as [UserAuthDto];
 
     return user;
   }

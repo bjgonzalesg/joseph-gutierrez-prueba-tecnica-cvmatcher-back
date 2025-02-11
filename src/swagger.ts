@@ -3,8 +3,8 @@ import { SwaggerModule, DocumentBuilder } from '@nestjs/swagger';
 
 export function setupSwagger(app: INestApplication) {
   const options = new DocumentBuilder()
-    .setTitle('NestJS API')
-    .setDescription('Nest + Sequelize + JWT + Jest + Swagger')
+    .setTitle('PRUEBA TECNICA CVMATCHER - API')
+    .setDescription('Nest + Sequelize + JWT  + Swagger')
     .setVersion('1.0')
     .addBearerAuth()
     .build();

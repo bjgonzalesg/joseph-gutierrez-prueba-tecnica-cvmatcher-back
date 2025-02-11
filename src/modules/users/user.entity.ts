@@ -11,7 +11,7 @@ import {
 
 @Table({
   schema: 'sistemas',
-  tableName: 'usuarios',
+  tableName: 'users',
   timestamps: true,
   paranoid: true,
 })
@@ -40,7 +40,7 @@ export class User extends Model<User> {
   })
   password: string;
 
-  @ApiProperty()
+  @ApiProperty({ type: Role })
   @ForeignKey(() => Role)
   @Column({
     type: DataType.INTEGER,
@@ -49,5 +49,5 @@ export class User extends Model<User> {
   role_id: number;
 
   @BelongsTo(() => Role)
-  rol: Role;
+  role: Role;
 }

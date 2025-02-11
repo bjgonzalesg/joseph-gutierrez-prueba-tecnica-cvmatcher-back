@@ -29,24 +29,6 @@ interface EnvVars {
   // *JWT
   JWT_KEY: string;
   JWT_EXPIRATION: string;
-
-  // *CACHE
-  CACHE_TTL_DEFAULT: number;
-  CACHE_MAX_ITEMS_DEFAULT: number;
-
-  // *NODEMAILER
-  NM_SERVICE: string;
-  NM_USER: string;
-  NM_PASSWORD: string;
-  CODE_EXPIRATION_IN_MINUTES: number;
-
-  // *GOOGLE
-  GOOGLE_CLIENT_ID: string;
-  GOOGLE_CLIENT_SECRET: string;
-  GOOGLE_CALLBACK_URL: string;
-
-  // *FRONTEND
-  FRONTEND_URL: string;
 }
 
 const envsSchema = joi
@@ -80,24 +62,6 @@ const envsSchema = joi
     // *JWT
     JWT_KEY: joi.string().required(),
     JWT_EXPIRATION: joi.string().required(),
-
-    // *CACHE
-    CACHE_TTL_DEFAULT: joi.number().required(),
-    CACHE_MAX_ITEMS_DEFAULT: joi.number().required(),
-
-    // *NODEMAILER
-    NM_SERVICE: joi.string().required(),
-    NM_USER: joi.string().required(),
-    NM_PASSWORD: joi.string().required(),
-    CODE_EXPIRATION_IN_MINUTES: joi.number().required(),
-
-    // *GOOGLE
-    GOOGLE_CLIENT_ID: joi.string().required(),
-    GOOGLE_CLIENT_SECRET: joi.string().required(),
-    GOOGLE_CALLBACK_URL: joi.string().required(),
-
-    // *FRONTEND
-    FRONTEND_URL: joi.string().required(),
   })
   .unknown(true);
 
@@ -137,22 +101,4 @@ export const envs = {
   // *JWT
   jwtKey: envVars.JWT_KEY,
   jwtExpiration: envVars.JWT_EXPIRATION,
-
-  // *CACHE
-  cacheTtlDefault: envVars.CACHE_TTL_DEFAULT,
-  cacheMaxItemsDefault: envVars.CACHE_MAX_ITEMS_DEFAULT,
-
-  // *NODEMAILER
-  nmService: envVars.NM_SERVICE,
-  nmUser: envVars.NM_USER,
-  nmPassword: envVars.NM_PASSWORD,
-  codeExpirationInMinutes: envVars.CODE_EXPIRATION_IN_MINUTES,
-
-  // *GOOGLE
-  googleClientId: envVars.GOOGLE_CLIENT_ID,
-  googleClientSecret: envVars.GOOGLE_CLIENT_SECRET,
-  googleCallbackUrl: envVars.GOOGLE_CALLBACK_URL,
-
-  // *FRONTEND
-  frontendUrl: envVars.FRONTEND_URL,
 };
