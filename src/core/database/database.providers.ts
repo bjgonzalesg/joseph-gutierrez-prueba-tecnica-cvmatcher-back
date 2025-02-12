@@ -26,6 +26,7 @@ export const databaseProviders = [
       const sequelize = new Sequelize({
         ...config,
         define: { freezeTableName: true },
+        dialectModule: require('pg'),
       });
 
       sequelize.addModels([User, Role, Job]);
