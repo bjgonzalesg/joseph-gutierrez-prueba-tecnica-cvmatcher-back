@@ -1,4 +1,4 @@
-# JOSEPH GUTIERREZ - PRUEBA TÉCNICA (CVMATCHER)
+# JOSEPH GUTIERREZ - PRUEBA TÉCNICA (BACKEND)
 
 <p align="center">
   <img src="https://www.cvmatcher.app/images/shortlogo.webp"
@@ -20,6 +20,17 @@
 > el valor del nombre del servicio cvmatcher-db.
 
 ### 🔹MANUAL
+
+#### Instalar dependencias
+
+- Instalar las dependencias
+
+  ```bash
+    npm install
+  ```
+
+> [!NOTE]
+> Observar la versión de node en el archivo `.nvmrc`
 
 #### Variables de entorno
 
@@ -94,6 +105,10 @@ $ npm run start:dev
 > En caso de cambiar el puerto, acceder a la ruta `http://localhost:[PUERTO]/documentation`
 
 ## ✅ DESCRIPCIÓN DEL PROCESO DE SCRAPING
+
+### 🔹Código fuente
+
+- Repositorio de [GITHUB](https://github.com/bjgonzalesg/https-github.com-bjgonzalesg-joseph-gutierrez-prueba-tecnica-cvmatcher-web-scraping.git)
 
 ### 🔹Importar Dependencias
 
