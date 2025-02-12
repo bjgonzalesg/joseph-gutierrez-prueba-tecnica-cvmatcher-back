@@ -35,6 +35,7 @@ async function bootstrap() {
     rateLimit({
       windowMs: 1000 * 60 * 60,
       limit: 1000,
+      keyGenerator: (req) => req.ip,
       message:
         '⚠️  Too many request created from this IP, please try again after an hour',
     }),
