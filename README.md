@@ -12,7 +12,11 @@
 
 1. Renombrar el archivo `.env.sample` a `.env`
 2. Reemplazar las variables de entorno de la base de datos por las que desee
-3. Levantar la aplicacion en modo desarrollo con el comando `docker compose up --build`
+3. Levantar la aplicacion en modo desarrollo con el comando
+
+  ```bash
+  docker compose up --build
+  ```
 
 > [!NOTE]
 > No es necesario reemplazar la variable de entorno `DB_HOST`, ya que la
@@ -26,7 +30,7 @@
 - Instalar las dependencias
 
   ```bash
-    npm install
+  npm install
   ```
 
 > [!NOTE]
@@ -39,9 +43,23 @@
 #### Base de datos (Docker)
 
 1. Reemplazar las variables de entorno de la base de datos por las que desee
-2. Levantar docker `npm run docker:dev`
-3. Correr migraciones `npm run db:migrate`
-4. Correr seeders `npm run db:seed`
+2. Levantar docker
+
+   ```bash
+   npm run docker:dev
+   ```
+
+3. Correr migraciones
+
+   ```bash
+   npm run db:migrate
+   ```
+
+4. Correr seeders
+
+   ```bash
+   npm run db:seed
+    ```
 
 #### Base de datos (Supabase)
 
@@ -51,8 +69,7 @@
 #### Levantar aplicacion
 
 ```bash
-# development
-$ npm run start:dev
+npm run start:dev
 ```
 
 ## ✅ DOCUMENTACIÓN DE LOS ENDPOINTS
