@@ -52,10 +52,8 @@ async function bootstrap() {
     }),
   );
 
-  // Enables the API docs auto-generation.
-  if (envs.nodeEnv != 'production') {
-    setupSwagger(app);
-  }
+  // Setup Swagger
+  setupSwagger(app);
 
   // Use helmet for security
   app.use(helmet());
