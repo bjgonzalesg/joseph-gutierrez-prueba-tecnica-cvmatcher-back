@@ -12,7 +12,8 @@ export function setupSwagger(app: INestApplication) {
   const document = SwaggerModule.createDocument(app, options);
 
   SwaggerModule.setup('documentation', app, document, {
-    customfavIcon: 'https://avatars.githubusercontent.com/u/6936373?s=200&v=4',
+    customfavIcon:
+      'https://static-00.iconduck.com/assets.00/swagger-icon-1024x1024-09037v1r.png',
     customJs: [
       'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.15.5/swagger-ui-bundle.min.js',
       'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.15.5/swagger-ui-standalone-preset.min.js',
