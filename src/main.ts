@@ -17,6 +17,10 @@ async function bootstrap() {
   const HOST = envs.appHost;
   const PORT = envs.appPort;
 
+  const expressApp = app.getHttpAdapter();
+
+  expressApp.getInstance().set('trust proxy', 1);
+
   // BodyParser
   app.use(
     bodyParser.urlencoded({
