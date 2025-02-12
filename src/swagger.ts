@@ -11,12 +11,5 @@ export function setupSwagger(app: INestApplication) {
 
   const document = SwaggerModule.createDocument(app, options);
 
-  SwaggerModule.setup('documentation', app, document, {
-    customCssUrl:
-      'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.15.5/swagger-ui.min.css',
-    customJs:
-      'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.15.5/swagger-ui-bundle.min.js',
-    customfavIcon:
-      'https://cdnjs.cloudflare.com/ajax/libs/swagger-ui/4.15.5/favicon-32x32.png',
-  });
+  SwaggerModule.setup('documentation', app, document);
 }
