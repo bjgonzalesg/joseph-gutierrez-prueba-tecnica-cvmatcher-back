@@ -2,11 +2,11 @@
 
 /** @type {import('sequelize-cli').Migration} */
 module.exports = {
-  async up(queryInterface, Sequelize) {
-    await queryInterface.createSchema("jobs");
+  async up(queryInterface) {
+    await queryInterface.createSchema('jobs');
   },
 
-  async down(queryInterface, Sequelize) {
-    await queryInterface.dropSchema("jobs");
-  }
+  async down(queryInterface) {
+    await queryInterface.dropSchema('jobs');
+  },
 };
