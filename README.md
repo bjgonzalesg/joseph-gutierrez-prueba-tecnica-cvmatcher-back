@@ -119,6 +119,7 @@ npm run start:dev
 
 > [!NOTE]
 > La documentación en **SWAGGER** está disponible en [Local](http://localhost:3160/documentation) usando el puerto `3160` y en [Vercel](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app/documentation).
+> *No olvidar colocar el token brindado en la parte superior, dando click al boton con nombre "Authorize"*
 
 ## ✅ DESCRIPCIÓN DEL PROCESO DE SCRAPING
 
