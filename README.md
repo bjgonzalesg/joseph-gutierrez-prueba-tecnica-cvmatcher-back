@@ -101,7 +101,7 @@ $ npm run start:dev
 > de datos en **Supabase**
 
 > [!NOTE]
-> **Local**: Documentación en [SWAGGER](http://localhost:3160/documentation) usando el puerto `3160`
+> **Local**: Documentación en [SWAGGER](http://localhost:3160/documentation) usando el puerto `3160` \
 > **Vercel**: Documentación en [SWAGGER](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app/documentation)
 
 ## ✅ DESCRIPCIÓN DEL PROCESO DE SCRAPING
