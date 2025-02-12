@@ -3,7 +3,7 @@ import {
   ROLE_NOT_AUTHORIZED_MESSAGE,
   ROLES_KEY,
   USER_NOT_AUTHORIZED_MESSAGE,
-} from '@/core/constants';
+} from 'src//core/constants';
 import {
   CanActivate,
   ExecutionContext,
@@ -15,7 +15,7 @@ import { Request } from 'express';
 import { Observable } from 'rxjs';
 import { Role } from '../enums/role.enum';
 import { Payload } from '../interfaces';
-import { User } from '@/modules/users';
+import { User } from 'src//modules/users';
 
 @Injectable()
 export class RolesGuard implements CanActivate {

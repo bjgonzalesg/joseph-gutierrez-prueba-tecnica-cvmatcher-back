@@ -1,5 +1,8 @@
-import { CREDENTIALS_INVALID_MESSAGE, USER_REPOSITORY } from '@/core/constants';
-import { User } from '@/modules/users';
+import {
+  CREDENTIALS_INVALID_MESSAGE,
+  USER_REPOSITORY,
+} from 'src//core/constants';
+import { User } from 'src//modules/users';
 import { Inject, Injectable, UnauthorizedException } from '@nestjs/common';
 import { JwtService } from '@nestjs/jwt';
 import * as bcrypt from 'bcrypt';

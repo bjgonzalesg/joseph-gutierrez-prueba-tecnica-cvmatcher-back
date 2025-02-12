@@ -1,4 +1,4 @@
-import { JOB_REPOSITORY } from '@/core/constants';
+import { JOB_REPOSITORY } from 'src//core/constants';
 import { Inject, Injectable } from '@nestjs/common';
 import { Role } from '../auth/enums/role.enum';
 import { User } from '../users';

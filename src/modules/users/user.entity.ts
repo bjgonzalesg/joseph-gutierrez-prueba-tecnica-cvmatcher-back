@@ -1,4 +1,4 @@
-import { Role } from '@/modules/roles/role.entity';
+import { Role } from 'src//modules/roles/role.entity';
 import { ApiProperty } from '@nestjs/swagger';
 import {
   BelongsTo,

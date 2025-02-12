@@ -1,5 +1,5 @@
-import { envs } from '@/core/config';
-import { USER_NOT_AUTHORIZED_MESSAGE } from '@/core/constants';
+import { envs } from 'src//core/config';
+import { USER_NOT_AUTHORIZED_MESSAGE } from 'src//core/constants';
 import { Injectable, UnauthorizedException } from '@nestjs/common';
 import { PassportStrategy } from '@nestjs/passport';
 import { ExtractJwt, Strategy } from 'passport-jwt';

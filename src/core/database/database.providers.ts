@@ -1,6 +1,6 @@
-import { Job } from '@/modules/jobs/entities/job.entity';
-import { Role } from '@/modules/roles/role.entity';
-import { User } from '@/modules/users/user.entity';
+import { Job } from 'src//modules/jobs/entities/job.entity';
+import { Role } from 'src//modules/roles/role.entity';
+import { User } from 'src//modules/users/user.entity';
 import { Sequelize } from 'sequelize-typescript';
 import { DEVELOPMENT, PRODUCTION, SEQUELIZE, TEST } from '../constants';
 import { databaseConfig } from './config/database.config';

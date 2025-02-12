@@ -1,4 +1,4 @@
-import { envs } from '@/core/config';
+import { envs } from 'src//core/config';
 import { Module } from '@nestjs/common';
 import { JwtModule } from '@nestjs/jwt';
 import { PassportModule } from '@nestjs/passport';

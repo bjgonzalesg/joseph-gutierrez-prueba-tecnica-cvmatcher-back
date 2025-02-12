@@ -1,4 +1,4 @@
-import { envs } from '@/core/config';
+import { envs } from 'src//core/config';
 import 'dotenv/config';
 import { DatabaseConfigI } from '../interfaces/database.interface';
 
