@@ -114,7 +114,7 @@ npm run start:dev
   ```
 
 > [!NOTE]
-> Documentacion en [POSTMAN](https://documenter.getpostman.com/view/29145466/2sAYXCidJr) usando la aplicación desplegada en [Vercel](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app) y la base
+> Documentacion en [POSTMAN](https://documenter.getpostman.com/view/29145466/2sAYXCixwe) usando la aplicación desplegada en [Vercel](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app) y la base
 > de datos en **Supabase**
 
 > [!NOTE]
