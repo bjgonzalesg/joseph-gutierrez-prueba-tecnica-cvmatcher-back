@@ -106,7 +106,7 @@ $ npm run start:dev
 
 ### 🔹Código fuente
 
-- Repositorio de [GITHUB](https://github.com/bjgonzalesg/https-github.com-bjgonzalesg-joseph-gutierrez-prueba-tecnica-cvmatcher-web-scraping.git){:target="\_blank"}
+- Repositorio de [GITHUB](https://github.com/bjgonzalesg/https-github.com-bjgonzalesg-joseph-gutierrez-prueba-tecnica-cvmatcher-web-scraping.git){:target="_blank"}
 
 ### 🔹Importar Dependencias
 
