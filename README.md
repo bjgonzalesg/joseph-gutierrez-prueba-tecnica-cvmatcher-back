@@ -100,15 +100,13 @@ $ npm run start:dev
 > Documentacion en [POSTMAN](https://documenter.getpostman.com/view/29145466/2sAYXCidJr) usando la aplicación desplegada en [Vercel](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app) y la base
 > de datos en **Supabase**
 
-> [!NOTE]
-> **Local**: Documentación en [SWAGGER](http://localhost:3160/documentation) usando el puerto `3160`
-> **Vercel**: Documentación en [SWAGGER](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app/documentation)
+> [!NOTE] > **Local**: Documentación en [SWAGGER](http://localhost:3160/documentation) usando el puerto `3160` > **Vercel**: Documentación en [SWAGGER](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app/documentation)
 
 ## ✅ DESCRIPCIÓN DEL PROCESO DE SCRAPING
 
 ### 🔹Código fuente
 
-- Repositorio de [GITHUB](https://github.com/bjgonzalesg/https-github.com-bjgonzalesg-joseph-gutierrez-prueba-tecnica-cvmatcher-web-scraping.git)
+- Repositorio de [GITHUB](https://github.com/bjgonzalesg/https-github.com-bjgonzalesg-joseph-gutierrez-prueba-tecnica-cvmatcher-web-scraping.git){:target="\_blank"}
 
 ### 🔹Importar Dependencias
 
