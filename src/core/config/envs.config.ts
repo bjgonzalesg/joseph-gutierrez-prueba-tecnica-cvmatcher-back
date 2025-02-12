@@ -11,10 +11,6 @@ interface EnvVars {
   APP_API_VERSION: string;
   APP_URL: string;
 
-  // *PAGINATION
-  DEFAULT_PAGE: number;
-  DEFAULT_LIMIT: number;
-
   // *DATABASE
   DB_HOST: string;
   DB_PORT: number;
@@ -43,10 +39,6 @@ const envsSchema = joi
     APP_HOST: joi.string().required(),
     APP_PORT: joi.number().port().required(),
     APP_API_VERSION: joi.string().required(),
-
-    // *PAGINATION
-    DEFAULT_PAGE: joi.number().required(),
-    DEFAULT_LIMIT: joi.number().required(),
 
     // *DATABASE
     DB_HOST: joi.string().required(),
@@ -82,10 +74,6 @@ export const envs = {
   appPort: envVars.APP_PORT,
   appApiVersion: envVars.APP_API_VERSION,
   appUrl: `http://${envVars.APP_HOST}:${envVars.APP_PORT}/api/${envVars.APP_API_VERSION}`,
-
-  // *PAGINATION
-  defaultPage: envVars.DEFAULT_PAGE,
-  defaultLimit: envVars.DEFAULT_LIMIT,
 
   // *DATABASE
   dbHost: envVars.DB_HOST,

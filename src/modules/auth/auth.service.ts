@@ -21,10 +21,10 @@ export class AuthService {
       role: user.role.name,
     });
 
-    return { user, token };
+    return { token };
   }
 
-  //* Local Strategy (login)
+  // *Local Strategy (login)
   async validateUser(loginDto: LoginDto): Promise<UserAuthDto> {
     const { username } = loginDto;
 
@@ -32,11 +32,11 @@ export class AuthService {
 
     if (!user) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
 
-    const match = await this.comparePassword(loginDto.password, user.password);
+    const { password, ...rest } = user.dataValues;
+
+    const match = await this.comparePassword(loginDto.password, password);
 
     if (!match) throw new UnauthorizedException(CREDENTIALS_INVALID_MESSAGE);
-
-    const { password, ...rest } = user.dataValues;
 
     return rest as UserAuthDto;
   }
