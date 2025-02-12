@@ -97,12 +97,12 @@ $ npm run start:dev
   ```
 
 > [!NOTE]
-> Documentacion en [POSTMAN](https://documenter.getpostman.com/view/29145466/2sAYXCidJr) usando la aplicación desplegada en **Vercel** y la base
+> Documentacion en [POSTMAN](https://documenter.getpostman.com/view/29145466/2sAYXCidJr) usando la aplicación desplegada en [Vercel](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app) y la base
 > de datos en **Supabase**
 
 > [!NOTE]
-> Documentacón en [SWAGGER](http://localhost:3160/documentation) usando la aplicación en **local** usando el puerto **3160** por defecto.
-> En caso de cambiar el puerto, acceder a la ruta `http://localhost:[PUERTO]/documentation`
+> **Local**: Documentación en [SWAGGER](http://localhost:3160/documentation) usando el puerto `3160`
+> **Vercel**: Documentación en [SWAGGER](https://joseph-gutierrez-prueba-tecnica-cvmatcher-back.vercel.app/documentation)
 
 ## ✅ DESCRIPCIÓN DEL PROCESO DE SCRAPING
 
