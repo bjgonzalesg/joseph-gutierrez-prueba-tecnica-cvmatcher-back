@@ -18,10 +18,10 @@
     npm run docker:app:dev
     ```
 
-    > [!NOTE]
-    > No es necesario reemplazar la variable de entorno `DB_HOST`, ya que la
-    > base de datos se ejecuta en la red interna de Docker y tomará automáticamente
-    > el valor del nombre del servicio cvmatcher-db.
+> [!NOTE]
+> No es necesario reemplazar la variable de entorno `DB_HOST`, ya que la
+> base de datos se ejecuta en la red interna de Docker y tomará automáticamente
+> el valor del nombre del servicio cvmatcher-db.
 
 ### 🔹MANUAL
 
@@ -33,8 +33,8 @@
   npm install
   ```
 
-  > [!NOTE]
-  > Observar la versión de node en el archivo `.nvmrc`
+> [!NOTE]
+> Observar la versión de node en el archivo `.nvmrc`
 
 #### Variables de entorno
 
