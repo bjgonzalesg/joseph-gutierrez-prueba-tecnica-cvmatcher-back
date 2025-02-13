@@ -25,7 +25,7 @@ services:
     depends_on:
       - cvmatcher-db
     # volumes:
-    #   - .src/:/usersrc//appsrc/
+    #   - .src/:/usersrc/app/src/
 
   cvmatcher-db:
     image: postgres:16.1
