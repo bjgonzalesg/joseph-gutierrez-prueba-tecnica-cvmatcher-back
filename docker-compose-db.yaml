@@ -1,0 +1,12 @@
+services:
+  cvmatcher-db:
+    image: postgres:16.1
+    container_name: cvmatcher-db
+    environment:
+      - POSTGRES_USER=${DB_USER}
+      - POSTGRES_PASSWORD=${DB_PASS}
+      - POSTGRES_DB=${DB_NAME_DEVELOPMENT}
+    ports:
+      - ${DB_PORT}:${DB_PORT}
+    # volumes:
+    #   - ./postgres:/var/lib/postgres/data

@@ -14,14 +14,14 @@
 2. Reemplazar las variables de entorno de la base de datos por las que desee
 3. Levantar la aplicacion en modo desarrollo con el comando
 
-  ```bash
-  docker compose up --build
-  ```
+    ```bash
+    npm run docker:app:dev
+    ```
 
-> [!NOTE]
-> No es necesario reemplazar la variable de entorno `DB_HOST`, ya que la
-> base de datos se ejecuta en la red interna de Docker y tomará automáticamente
-> el valor del nombre del servicio cvmatcher-db.
+    > [!NOTE]
+    > No es necesario reemplazar la variable de entorno `DB_HOST`, ya que la
+    > base de datos se ejecuta en la red interna de Docker y tomará automáticamente
+    > el valor del nombre del servicio cvmatcher-db.
 
 ### 🔹MANUAL
 
@@ -33,8 +33,8 @@
   npm install
   ```
 
-> [!NOTE]
-> Observar la versión de node en el archivo `.nvmrc`
+  > [!NOTE]
+  > Observar la versión de node en el archivo `.nvmrc`
 
 #### Variables de entorno
 
@@ -45,20 +45,14 @@
 1. Reemplazar las variables de entorno de la base de datos por las que desee
 2. Levantar docker
 
-   ```bash
-   npm run docker:dev
-   ```
+    ```bash
+    npm run docker:db:dev
+    ```
 
-3. Correr migraciones
+3. Levantar la base de datos
 
-   ```bash
-   npm run db:migrate
-   ```
-
-4. Correr seeders
-
-   ```bash
-   npm run db:seed
+    ```bash
+    npm run db:init
     ```
 
 #### Base de datos (Supabase)
